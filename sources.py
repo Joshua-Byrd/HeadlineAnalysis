@@ -193,6 +193,24 @@ sources = {
         "bias": 14.00
     },
 
+    "zerohedge":{
+        "url": "https://www.zerohedge.com/",
+        "reliability": 20.70,
+        "bias": 16.57
+    },
+
+    "activistpost": {
+        "url": "https://www.activistpost.com/",
+        "reliability": 17.81,
+        "bias": 16.32
+    },
+
+    "turningpointusa": {
+        "url": "https://tpusa.com/",
+        "reliability":20.60,
+        "bias": 16.97
+    },
+
     "newsmax" : {
         "url": "https://www.newsmax.com/",
         "reliability": 29.04,
@@ -203,24 +221,6 @@ sources = {
         "url": "https://meidasnews.com/",
         "reliability": 22.55,
         "bias": -19.05
-    },
-
-    "consortium news": {
-        "url": "https://consortiumnews.com/",
-        "reliability": 23.10,
-        "bias": -16.38
-    },
-
-    "crooks and liars": {
-        "url": "https://crooksandliars.com/",
-        "reliability": 21.53,
-        "bias": -21.10
-    },
-
-    "counterpunch": {
-       "url": "https://www.counterpunch.org/",
-       "reliability": 21.26,
-       "bias": -21.60
     },
 
     "politizoom": {
@@ -245,12 +245,6 @@ sources = {
         "url": "https://thegrayzone.com/",
         "reliability": 17.88,
         "bias": -24.87
-    },
-
-    "wonkette": {
-        "url": "https://www.wonkette.com/",
-        "reliability": 20.10,
-        "bias": -25.12
     },
 
     "glennbeck": {
@@ -278,9 +272,35 @@ sources = {
     }, 
 
     "thepeoplesvoice": {
-        
+        "url": "https://thepeoplesvoice.tv/",
+        "reliability": 14.32,
+        "bias": 24.50
+    },
+
+    "lewrockwell" : {
+        "url": "https://www.lewrockwell.com/",
+        "reliability": 11.37,
+        "bias": 26.96
+    },
+
+    "beforeitsnews":{
+        "url": "https://beforeitsnews.com/",
+        "reliability": 6.23,
+        "bias": 29.41
     }
-
-
-
 }
+
+# Checking number of sources from each side
+
+# center, left, right = 0, 0, 0
+
+# for key, value in sources.items():
+#     if value["bias"] > 2:
+#         right += 1
+#     elif value["bias"] < - 1:
+#         left += 1
+#     else:
+#         center += 1
+
+# print(f"center: {center}\nright: {right}\nleft: {left}")
+# print(len(sources))
