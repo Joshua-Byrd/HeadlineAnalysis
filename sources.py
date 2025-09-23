@@ -251,6 +251,34 @@ sources = {
         "url": "https://www.wonkette.com/",
         "reliability": 20.10,
         "bias": -25.12
+    },
+
+    "glennbeck": {
+        "url": "https://www.glennbeck.com/",
+        "reliability": 21.21,
+        "bias": 23.41
+    },
+
+    "billoreilly" : {
+        "url": "https://www.billoreilly.com/",
+        "reliability": 21.72,
+        "bias": 25.55
+    },
+
+    "infowars": {
+        "url": "https://www.infowars.com/",
+        "reliability": 15.90,
+        "bias": 23.46
+    },
+
+    "thegatewaypundit": {
+        "url": "https://www.thegatewaypundit.com/",
+        "reliability": 14.80,
+        "bias": 23.59
+    }, 
+
+    "thepeoplesvoice": {
+        
     }
 
 
