@@ -1,0 +1,129 @@
+{
+    "sources":[
+        {
+            "name": "ABC News",
+            "reliability":44.60,
+            "bias": -3.10
+        },
+        {
+            "name": "Al Jazeera English",
+            "reliability": 41.28,
+            "bias": -7.31
+        },
+        {
+            "name": "Associated Press",
+            "reliability": 44.81,
+            "bias": -2.47
+        },
+        {
+            "name": "Axios",
+            "reliability": 43.10,
+            "bias": -3.29
+        },
+        {
+            "name": "BBC News",
+            "reliability": 44.68,
+            "bias": -1.34
+        },
+        {
+            "name": "Bloomberg",
+            "reliability":42.23,
+            "bias":-3.06
+        }, 
+        {
+            "name": "Breitbart News",
+            "reliability": 30.81,
+            "bias": 13.45
+        },
+        {
+            "name": "Business Insider",
+            "reliability": 40.59,
+            "bias": -4.04
+        },
+        {
+            "name": "CBS News",
+            "reliability": 41.89,
+            "bias": -3.03
+        },
+        {
+            "name": "CNN",
+            "reliability": 42.08,
+            "bias": -6.24
+        },
+        {
+            "name": "Fox News",
+            "reliability": 35.33,
+            "bias": 11.05
+        },
+        {
+            "name": "MSNBC",
+            "reliability": 34.92,
+            "bias": -13.53
+        }, 
+        {
+            "name": "National Review",
+            "reliability": 32.32,
+            "bias": 12.73
+        },
+        {
+            "name": "NBC News",
+            "reliability": 42.75,
+            "bias": -5.61
+        },
+        {
+            "name": "Newsweek",
+            "reliability": 39.12,
+            "bias": -1.77
+        },
+        {
+            "name": "Politico",
+            "reliability": 42.33,
+            "bias": -5.38
+        },
+        {
+            "name": "Reuters",
+            "reliability": 44.97,
+            "bias": -1.27
+        },
+        {
+            "name": "The American Conservative",
+            "reliability": 31.63,
+            "bias": 14.44
+        },
+        {
+            "name": "The Hill",
+            "reliability": 41.66,
+            "bias": -1.45
+        },
+        {
+            "name": "The Huffington Post",
+            "reliability": 38.06,
+            "bias": -10.57
+        },
+        {
+            "name": "The Wall Street Journal",
+            "reliability": 43.31,
+            "bias": 4.17
+        },
+        {
+            "name": "The Washington Post",
+            "reliability": 38.69,
+            "bias": -7.16
+        },
+        {
+            "name": "The Washington Times",
+            "reliability": 33.48,
+            "bias": 11.61
+        },
+        {
+            "name": "Time",
+            "reliability":41.10,
+            "bias": -7.43
+        }, 
+        {
+            "name": "USA Today",
+            "reliability":40.89,
+            "bias": -3.79
+        }
+    ]
+}

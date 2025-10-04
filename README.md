@@ -1,1 +1,5 @@
 # Sentiment Analysis of News Headlines
+
+## Steps taken so far
+1. Connected to NewsAPI and downloaded list of sources, which were then written to ./data/raw/newsapi_sources.json
+2. Manually created a JSON object of news sources from Ad Fontes based on the sources from NewsAPI in ./data/raw/as_dontes_sources.json.  There is not a 1-to-1 correlation between the two lists of sources as not everything from NewsAPI was available from Ad Fontes.
