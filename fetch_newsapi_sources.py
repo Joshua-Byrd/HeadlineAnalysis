@@ -19,6 +19,3 @@ with open("./data/raw/newsapi_sources.json", "w") as file:
 with open("newsapi_sources.json", "r") as file:
     newsapi_sources = json.load(file)
 
-print(len(newsapi_sources["sources"]))
-for source in newsapi_sources["sources"]:
-    print(source["name"])
