@@ -1,0 +1,252 @@
+{
+  "abc news": {
+    "id": "abc-news",
+    "name": "abc news",
+    "description": "your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at abcnews.com.",
+    "url": "https://abcnews.go.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 44.6,
+    "bias": -3.1
+  },
+  "al jazeera english": {
+    "id": "al-jazeera-english",
+    "name": "al jazeera english",
+    "description": "news, analysis from the middle east and worldwide, multimedia and interactives, opinions, documentaries, podcasts, long reads and broadcast schedule.",
+    "url": "https://www.aljazeera.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 41.28,
+    "bias": -7.31
+  },
+  "associated press": {
+    "id": "associated-press",
+    "name": "associated press",
+    "description": "the ap delivers in-depth coverage on the international, politics, lifestyle, business, and entertainment news.",
+    "url": "https://apnews.com/",
+    "category": "general",
+    "country": "us",
+    "reliability": 44.81,
+    "bias": -2.47
+  },
+  "axios": {
+    "id": "axios",
+    "name": "axios",
+    "description": "axios are a new media company delivering vital, trustworthy news and analysis in the most efficient, illuminating and shareable ways possible.",
+    "url": "https://www.axios.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 43.1,
+    "bias": -3.29
+  },
+  "bbc news": {
+    "id": "bbc-news",
+    "name": "bbc news",
+    "description": "use bbc news for up-to-the-minute news, breaking news, video, audio and feature stories. bbc news provides trusted world and uk news as well as local and regional perspectives. also entertainment, business, science, technology and health news.",
+    "url": "https://www.bbc.co.uk/news",
+    "category": "general",
+    "country": "gb",
+    "reliability": 44.68,
+    "bias": -1.34
+  },
+  "bloomberg": {
+    "id": "bloomberg",
+    "name": "bloomberg",
+    "description": "bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from businessweek and bloomberg news.",
+    "url": "http://www.bloomberg.com",
+    "category": "business",
+    "country": "us",
+    "reliability": 42.23,
+    "bias": -3.06
+  },
+  "breitbart news": {
+    "id": "breitbart-news",
+    "name": "breitbart news",
+    "description": "syndicated news and opinion website providing continuously updated headlines to top news and analysis sources.",
+    "url": "http://www.breitbart.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 30.81,
+    "bias": 13.45
+  },
+  "business insider": {
+    "id": "business-insider",
+    "name": "business insider",
+    "description": "business insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. launched in 2007, the site is now the largest business news site on the web.",
+    "url": "http://www.businessinsider.com",
+    "category": "business",
+    "country": "us",
+    "reliability": 40.59,
+    "bias": -4.04
+  },
+  "cbs news": {
+    "id": "cbs-news",
+    "name": "cbs news",
+    "description": "cbs news: dedicated to providing the best in journalism under standards it pioneered at the dawn of radio and television and continue in the digital age.",
+    "url": "http://www.cbsnews.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 41.89,
+    "bias": -3.03
+  },
+  "cnn": {
+    "id": "cnn",
+    "name": "cnn",
+    "description": "view the latest news and breaking news today for u.s., world, weather, entertainment, politics and health at cnn",
+    "url": "http://us.cnn.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 42.08,
+    "bias": -6.24
+  },
+  "fox news": {
+    "id": "fox-news",
+    "name": "fox news",
+    "description": "breaking news, latest news and current news from foxnews.com. breaking news and video. latest current news: u.s., world, entertainment, health, business, technology, politics, sports.",
+    "url": "http://www.foxnews.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 35.33,
+    "bias": 11.05
+  },
+  "msnbc": {
+    "id": "msnbc",
+    "name": "msnbc",
+    "description": "breaking news and in-depth analysis of the headlines, as well as commentary and informed perspectives from the rachel maddow show, morning joe & more.",
+    "url": "http://www.msnbc.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 34.92,
+    "bias": -13.53
+  },
+  "national review": {
+    "id": "national-review",
+    "name": "national review",
+    "description": "national review: conservative news, opinion, politics, policy, & current events.",
+    "url": "https://www.nationalreview.com/",
+    "category": "general",
+    "country": "us",
+    "reliability": 32.32,
+    "bias": 12.73
+  },
+  "nbc news": {
+    "id": "nbc-news",
+    "name": "nbc news",
+    "description": "breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.",
+    "url": "http://www.nbcnews.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 42.75,
+    "bias": -5.61
+  },
+  "newsweek": {
+    "id": "newsweek",
+    "name": "newsweek",
+    "description": "newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+    "url": "https://www.newsweek.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 39.12,
+    "bias": -1.77
+  },
+  "politico": {
+    "id": "politico",
+    "name": "politico",
+    "description": "political news about congress, the white house, campaigns, lobbyists and issues.",
+    "url": "https://www.politico.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 42.33,
+    "bias": -5.38
+  },
+  "reuters": {
+    "id": "reuters",
+    "name": "reuters",
+    "description": "reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures.",
+    "url": "https://www.reuters.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 44.97,
+    "bias": -1.27
+  },
+  "the american conservative": {
+    "id": "the-american-conservative",
+    "name": "the american conservative",
+    "description": "realism and reform. a new voice for a new generation of conservatives.",
+    "url": "http://www.theamericanconservative.com/",
+    "category": "general",
+    "country": "us",
+    "reliability": 31.63,
+    "bias": 14.44
+  },
+  "the hill": {
+    "id": "the-hill",
+    "name": "the hill",
+    "description": "the hill is a top us political website, read by the white house and more lawmakers than any other site -- vital for policy, politics and election campaigns.",
+    "url": "https://thehill.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 41.66,
+    "bias": -1.45
+  },
+  "the huffington post": {
+    "id": "the-huffington-post",
+    "name": "the huffington post",
+    "description": "the huffington post is a politically liberal american online news aggregator and blog that has both localized and international editions founded by arianna huffington, kenneth lerer, andrew breitbart, and jonah peretti, featuring columnists.",
+    "url": "http://www.huffingtonpost.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 38.06,
+    "bias": -10.57
+  },
+  "the wall street journal": {
+    "id": "the-wall-street-journal",
+    "name": "the wall street journal",
+    "description": "wsj online coverage of breaking news and current headlines from the us and around the world. top stories, photos, videos, detailed analysis and in-depth reporting.",
+    "url": "https://www.wsj.com",
+    "category": "business",
+    "country": "us",
+    "reliability": 43.31,
+    "bias": 4.17
+  },
+  "the washington post": {
+    "id": "the-washington-post",
+    "name": "the washington post",
+    "description": "breaking news and analysis on politics, business, world national news, entertainment more. in-depth dc, virginia, maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+    "url": "https://www.washingtonpost.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 38.69,
+    "bias": -7.16
+  },
+  "the washington times": {
+    "id": "the-washington-times",
+    "name": "the washington times",
+    "description": "the washington times delivers breaking news and commentary on the issues that affect the future of our nation.",
+    "url": "https://www.washingtontimes.com/",
+    "category": "general",
+    "country": "us",
+    "reliability": 33.48,
+    "bias": 11.61
+  },
+  "time": {
+    "id": "time",
+    "name": "time",
+    "description": "breaking news and analysis from time.com. politics, world news, photos, video, tech reviews, health, science and entertainment news.",
+    "url": "http://time.com",
+    "category": "general",
+    "country": "us",
+    "reliability": 41.1,
+    "bias": -7.43
+  },
+  "usa today": {
+    "id": "usa-today",
+    "name": "usa today",
+    "description": "get the latest national, international, and political news at usatoday.com.",
+    "url": "http://www.usatoday.com/news",
+    "category": "general",
+    "country": "us",
+    "reliability": 40.89,
+    "bias": -3.79
+  }
+}
