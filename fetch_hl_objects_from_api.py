@@ -1,4 +1,5 @@
-from newsapi import NewsApiClient
+from datetime import datetime
+from newsapi.newsapi_client import NewsApiClient
 import json
 import os
 
@@ -20,6 +21,10 @@ source_str = ",".join([value["id"] for key, value in sources.items()])
 headline_objects = newsapi.get_everything(sources=source_str, language='en')
 new_articles = headline_objects.get("articles", [])
 
+# log fetch information
+with open("./logs/article_fetch.log", "a") as file:
+    file.write(f"{datetime.now()} - fetched {len(new_articles)} articles.\n") 
+
 # load existing articles if the file is present
 if os.path.exists(headline_objects_path):
     with open(headline_objects_path, "r") as file:
@@ -34,6 +39,7 @@ combined_articles = {x["url"]: x for x in existing_articles}
 
 for article in new_articles:
     combined_articles[article["url"]] =  article
+
 
 # write back to file
 with open(headline_objects_path, "w") as file:

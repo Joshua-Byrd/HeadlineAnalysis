@@ -6,4 +6,5 @@
 3. Merged the list of sources into one written ./data/raw to merged_sources.json(merge_sources.py). 
 4. Ran script (once) to get a list of headlines objects from NewsAPI (fetch_hl_objects_from_api.py). saved to ./data/raw/headline_objects.json.
 5. Updated fetch_hl_objects_from_api.py to merge new articles with old instead of overwriting.
-
+6. Started acquiring articles on 10/4/2025. Ended on
+7. Edited crontab to schedule fetch_hl_objects_from_api.py to run every hour (will run for a couple of days to get a decent amount of article objects).
