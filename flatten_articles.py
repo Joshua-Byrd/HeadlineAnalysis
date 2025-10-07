@@ -7,7 +7,7 @@ with open ("./data/raw/headline_objects.json", "r") as file:
 
 # write flattened article information to a csv
 with open("./data/flattened_articles.csv", "w") as file:
-    fieldnames = ["id", "author", "title", "description", "url", "urlToImage", "publishedAt", "content"]
+    fieldnames = ["id", "name", "author", "title", "description", "url", "urlToImage", "publishedAt", "content"]
     writer = csv.DictWriter(file, fieldnames=fieldnames)
 
     writer.writeheader()
@@ -16,6 +16,7 @@ with open("./data/flattened_articles.csv", "w") as file:
     for article in articles:
         row_dict = {
             "id": article["source"]["id"],
+            "name": article["source"]["name"],
             "author": article["author"],
             "title": article["title"],
             "description": article["description"],
