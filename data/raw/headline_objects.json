@@ -9164,6 +9164,1657 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
       "publishedAt": "2025-10-06T07:06:00Z",
       "content": "The latest five minute news bulletin from BBC World Service."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press, Reuters",
+      "title": "French Prime Minister resigns after only 2 weeks in office",
+      "description": "France\u2019s new prime minister S\u00e9bastien Lecornu resigned Monday, just a day after naming his government, marking a major deepening of the country's political crisis.",
+      "url": "https://www.nbcnews.com/world/europe/french-prime-minister-resigns-2-weeks-office-sebastien-lecornus-rcna235831",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-Sebastien-Lecornu-rs-785069.jpg",
+      "publishedAt": "2025-10-06T08:50:43Z",
+      "content": "Frances new prime minister S\u00e9bastien Lecornu resigned Monday, just a day after naming his government and after only two weeks in office, marking another major deepening of the country's political cri\u2026 [+755 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ROD MCGUIRK Associated Press",
+      "title": "Prosecutors appeal for longer sentence in mushroom poisoning murders",
+      "description": "Australian prosecutors have filed an appeal for a longer guaranteed prison term for poisonous mushroom cook Erin Patterson",
+      "url": "https://abcnews.go.com/International/wireStory/prosecutors-appeal-longer-sentence-erin-patterson-mushroom-poisoning-126242486",
+      "urlToImage": "https://i.abcnewsfe.com/a/91b6e379-1303-4372-abec-2b675ce1fb87/wirestory_d022842f056d788fa37066cd4938c81a_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T08:33:02Z",
+      "content": "MELBOURNE, Australia -- MELBOURNE, Australia (AP) Australian prosecutors on Monday filed an appeal seeking a longer guaranteed prison term for Erin Patterson, who was sentenced to life for poisoning \u2026 [+1456 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "French Prime Minister resigns after only 2 weeks in office",
+      "description": "France's new prime minister, S\u00e9bastien Lecornu, has resigned just a day after naming his government and less than a month in office",
+      "url": "https://abcnews.go.com/International/wireStory/french-prime-minister-resigns-after-2-weeks-office-126242487",
+      "urlToImage": "https://i.abcnewsfe.com/a/9b52cddb-c3d4-47a2-a948-c372548e004c/wirestory_2faa9292442e104feef4e239df92d08f_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T08:31:00Z",
+      "content": "PARIS -- PARIS (AP) Frances new prime minister S\u00e9bastien Lecornu resigned Monday, just a day after naming his government and after less than a month in office. \r\nThe French presidency said in a state\u2026 [+840 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Rescuers helping hundreds of Mount Everest hikers trapped by heavy snow",
+      "description": "Rescue workers were helping hundreds of hikers trapped by heavy snow at tourist campsites on a slope of Mount Everest in Tibet, Chinese state media said.",
+      "url": "https://www.cbsnews.com/news/mount-everest-hikers-trapped-heavy-snow-rescuers/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/06/dfd70926-d82f-49dc-8211-d9a310d504e3/thumbnail/1200x630/01463c5b4cf768d0ca5c60f83a36b780/2025-10-05t183515z-2023691429-rc2u5ham5p7t-rtrmadp-3-asia-weather-china-everest.jpg",
+      "publishedAt": "2025-10-06T08:30:13Z",
+      "content": "Beijing \u2014 Rescue workers were helping hundreds of hikers trapped by heavy snow at tourist campsites on a slope of Mount Everest in Tibet, Chinese state media said late Sunday.\r\nAbout 350 hikers had r\u2026 [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "Drone delivery is finally having its moment",
+      "description": "Drone delivery is gaining momentum with new pilot programs from Chipotle and GoTo Foods, boosted by recent regulatory changes.",
+      "url": "https://www.businessinsider.com/drone-delivery-accelerating-test-programs-pilot-markets-texas-wing-zipline-2025-10",
+      "urlToImage": "https://i.insider.com/68dc8514cc993f9955cf424c?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T08:22:01Z",
+      "content": "Major grocery and retail players are rolling out drone delivery programs, so getting dinner ingredients delivered by air may soon be as common as ordering through an app.Chipotle/Zipline\r\n<ul><li>Dro\u2026 [+7974 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "France\u2019s new Prime Minister Sebastien Lecornu resigns",
+      "description": "President Emmanuel Macron accepts resignation of newly appointed prime minister after criticism over cabinet line-up.",
+      "url": "https://www.aljazeera.com/news/2025/10/6/frances-new-prime-minister-sebastien-lecornu-resigns",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-04T114516Z_2043236862_RC274HAHP497_RTRMADP_3_FRANCE-POLITICS-WEALTH-TAX-1759738693.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-10-06T08:19:45Z",
+      "content": "French Prime Minister Sebastien Lecornu has stepped down just weeks after taking office, further deepening the countrys political crisis.\r\nThe French presidency said in a statement on Monday that Pre\u2026 [+380 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Trump says UFC fight at White House to be staged on his 80th birthday",
+      "description": "US President Donald Trump announces the 'big UFC fight' on the White House grounds will now take place on June 14.",
+      "url": "https://www.aljazeera.com/sports/2025/10/6/trump-says-ufc-fight-at-white-house-to-be-staged-on-his-80th-birthday",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP25159812543910-1759736495.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-10-06T08:15:15Z",
+      "content": "An Ultimate Fighting Championship (UFC) fight planned at the White House will take place on Donald Trumps 80th birthday, the United States president said, despite the much-hyped event having been pre\u2026 [+2247 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Aditi Bharade",
+      "title": "2 sizzling days at the Singapore Grand Prix, the first F1 race to be declared a 'heat hazard'",
+      "description": "Passion mixed with sweat at the race, which drew a crowd of over 300,000 to the city-state.",
+      "url": "https://www.businessinsider.com/f1-singapore-grand-prix-first-heat-hazard-race-2025-10",
+      "urlToImage": "https://i.insider.com/68e36332cc993f9955cf91b3?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T08:14:41Z",
+      "content": "Singapore Grand Prix 2025 was the first \"heat hazard\" race.Aditi Bharade\r\n<ul><li>The Singapore Grand Prix drew a crowd of over 300,000 to the city-state over the past weekend.</li><li>With temperatu\u2026 [+10020 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Jack Buehrer)",
+      "title": "ChatGPT Imbotster Syndrome is gumming up how we write professionally",
+      "description": "As ChatGPT writing floods LinkedIn,  people are  taking extra time to make sure their writing sounds like a human.",
+      "url": "https://www.businessinsider.com/chatgpt-linkedin-imbotster-syndrome-corporate-writing-work-jobs-2025-10",
+      "urlToImage": "https://i.insider.com/68e02f825dbc4fd10daa2f7f?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T08:08:01Z",
+      "content": "Olwyn Patterson was scrolling LinkedIn when she spotted the profile of someone she thought would be the perfect person to help promote an upcoming event put on by her company, a platform that connect\u2026 [+9577 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "06/10/2025 08:01 GMT",
+      "description": "The latest five minute news bulletin from BBC World Service.",
+      "url": "https://www.bbc.co.uk/programmes/w172zwwvfrf953s",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
+      "publishedAt": "2025-10-06T08:06:00Z",
+      "content": "The latest five minute news bulletin from BBC World Service."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Federal judge blocks Trump's National Guard deployment and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/federal-judge-blocks-trumps-national-guard-deployment-more-top-headlines",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-lawn-white-house.png",
+      "publishedAt": "2025-10-06T10:59:20Z",
+      "content": "Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ...\r\nTOP 3\r\n1. Federal judge blocks Trump's National Guard deployment\r\n2. \u2026 [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "France\u2019s prime minister resigns over divisions after just weeks in office",
+      "description": "French Prime Minister Sebastien Lecornu has stepped down, blaming deep divisions in parliament.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/frances-prime-minister-resigns-over-divisions-after-just-weeks-in-office",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/image-1759748285.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-10-06T10:58:22Z",
+      "content": "NewsFeed\r\nFrench Prime Minister Sebastien Lecornu has stepped down, blaming deep divisions in parliament where parties acted as if they all had an absolute majority. His departure comes less than a m\u2026 [+76 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Video: Heroes\u2019 welcome for freed Gaza flotilla activists",
+      "description": "Dozens of activists detained aboard the Gaza aid flotilla have arrived home in Spain, Portugal, and Tunisia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/video-heroes-welcome-for-freed-gaza-flotilla-activists",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/image-1759748006.jpg?resize=1747%2C1080&quality=80",
+      "publishedAt": "2025-10-06T10:53:52Z",
+      "content": "NewsFeed\r\nDozens of activists detained aboard the Gaza aid flotilla have arrived home in Spain, Portugal, and Tunisia to cheering crowds. They described mistreatment in Israeli prisons and accused au\u2026 [+83 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "STEVE DOUGLAS AP sports writer",
+      "title": "Is Man City star Erling Haaland in the form of his life? The stats suggest so",
+      "description": "Manchester City striker Erling Haaland believes he is in the best form of his career and the statistics show he might be right",
+      "url": "https://abcnews.go.com/Politics/wireStory/man-city-star-erling-haaland-form-life-stats-126244325",
+      "urlToImage": "https://i.abcnewsfe.com/a/f115355d-bb36-4289-8e80-987ee272bfe0/wirestory_7553010a794e3bf07ddf3ad5bdb80407_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:53:50Z",
+      "content": "Manchester City striker Erling Haaland believes he is in the best form of his career and the statistics show he might be right.\r\nThe scoring phenom from Norway made it 18 goals from his opening 11 ga\u2026 [+2495 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARK SHERMAN Associated Press, LINDSAY WHITEHURST Associated Press",
+      "title": "The Supreme Court will evaluate Trump's expansive claims of presidential power in its new term",
+      "description": "The Supreme Court is beginning a new term with a sharp focus on President Donald Trump\u2019s robust assertion of executive power",
+      "url": "https://abcnews.go.com/US/wireStory/supreme-court-evaluate-trumps-expansive-claims-presidential-power-126244316",
+      "urlToImage": "https://i.abcnewsfe.com/a/e347fbde-6df7-43c2-9de5-e11dac8cf4a3/wirestory_98285156a1279b2ff7fe15b8d96eef37_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:53:31Z",
+      "content": "WASHINGTON -- WASHINGTON (AP) The Supreme Court is beginning a new term with a sharp focus on President Donald Trump's robust assertion of executive power.\r\nPivotal cases on voting and the rights of \u2026 [+2496 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Syria\u2019s justice minister on rebuilding rule of law after al-Assad",
+      "description": "Mazhar al-Wais on Syria&#039;s transitional justice process and the fight for truth after Bashar al-Assad&#039;s fall.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/10/6/syrias-justice-minister-on-rebuilding-rule-of-law-after-al-assad",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/image-1759747781.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-10-06T10:49:53Z",
+      "content": "Mazhar al-Wais on Syrias transitional justice process and the fight for truth after Bashar al-Assads fall.As Syria turns the page after Bashar al-Assads fall, the transitional government promises jus\u2026 [+459 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Leaked Meta documents show how AI chatbots handle child exploitation",
+      "description": "Meta's AI chatbot training rules bans sexual roleplay with minors and block access to child abuse material as regulators scrutinize its safety measures.",
+      "url": "https://www.foxnews.com/tech/leaked-meta-documents-show-how-ai-chatbots-handle-child-exploitation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/meta-phone.jpg",
+      "publishedAt": "2025-10-06T10:48:18Z",
+      "content": "An internal Meta document sheds light on how the company is training its AI chatbot to handle one of the most sensitive issues online: child sexual exploitation. The newly unearthed guidelines detail\u2026 [+5519 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "UN rights body orders probe into human rights in Afghanistan, with a focus on women and girls",
+      "description": "The U.N.\u2019s top human rights body has agreed to set up an ongoing probe of human rights violations in Afghanistan under the Taliban, including against women and girls, in a measure pushed for by the European Union",
+      "url": "https://abcnews.go.com/International/wireStory/rights-body-orders-probe-human-rights-afghanistan-focus-126243886",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-06T10:45:24Z",
+      "content": "GENEVA -- GENEVA (AP) The U.N.'s top human rights body agreed Monday to set up an ongoing probe of human rights violations in Afghanistan under the Taliban, including against women and girls, in a me\u2026 [+1643 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "THOMAS BEAUMONT Associated Press",
+      "title": "Rep. Wesley Hunt is running for US Senate in Texas, defying GOP leaders to take on Cornyn and Paxton",
+      "description": "Republican congressman Wesley Hunt is running for the U.S. Senate in Texas, defying Senate GOP leadership and adding a new element to an already contentious primary campaign",
+      "url": "https://abcnews.go.com/Politics/wireStory/rep-wesley-hunt-running-us-senate-texas-defying-126244065",
+      "urlToImage": "https://i.abcnewsfe.com/a/75c816f5-c5b3-40af-a060-8c0a9b9d5e5e/wirestory_450ee0f067273ca75de9268cf928d0be_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:37:47Z",
+      "content": "Republican Rep. Wesley Hunt is running for the U.S. Senate in Texas, defying Senate GOP leadership and adding a new element to an already contentious primary campaign. \r\nThe two-term Houston-area con\u2026 [+4614 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JEFF AMY Associated Press",
+      "title": "2 Georgia Republicans seeking to beat Democratic US Sen. Jon Ossoff each raise nearly $2 million",
+      "description": "Two Georgia Republicans aiming to unseat Democratic Sen. Jon Ossoff in 2026 have raised nearly $2 million each after entering the race this summer",
+      "url": "https://abcnews.go.com/Politics/wireStory/2-georgia-republicans-seeking-beat-democratic-us-sen-126244064",
+      "urlToImage": "https://i.abcnewsfe.com/a/37dd09fd-1a52-4f3c-82c0-4f9b1512e675/wirestory_36eb6bf302e1074886da9847d001fc6d_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:37:27Z",
+      "content": "ATLANTA -- ATLANTA (AP) Two Georgia Republicans seeking to unseat Democratic incumbent Jon Ossoff in 2026 each said they raised nearly $2 million in the weeks after entering the race this summer.\r\nU.\u2026 [+1917 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Tom Carter",
+      "title": "Aston Martin warns investors that tariff pain won't go away anytime soon",
+      "description": "Aston Martin's share plunged as much as 11% on Monday after the British luxury carmaker slashed its guidance over the impact of US tariffs.",
+      "url": "https://www.businessinsider.com/aston-martin-tariffs-trump-shares-profit-warning-2025-10",
+      "urlToImage": "https://i.insider.com/68e385c31c1f80efbec4f70f?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T10:36:25Z",
+      "content": "Aston Martin is known for its ultra-luxury sports cars.John Keeble/Getty Images\r\n<ul><li>Aston Martin's shares plunged after the British carmaker issued another profit warning over tariffs.</li><li>T\u2026 [+2438 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "By MARK SHERMAN and LINDSAY WHITEHURST - Associated Press",
+      "title": "The Supreme Court will evaluate Trump's expansive claims of presidential power in its new term",
+      "description": "WASHINGTON (AP) \u2014 The Supreme Court is beginning a new term with a sharp focus on President Donald Trump's robust assertion of executive power.",
+      "url": "https://apnews.com/article/supreme-court-trump-executive-power-lgbtq-voting-98285156a1279b2ff7fe15b8d96eef37",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/1/e2/1e26df58-8534-573e-98ef-d51dc09af608/68e1098d87458.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-10-06T10:34:00Z",
+      "content": "WASHINGTON (AP) The Supreme Court is beginning a new term with a sharp focus on President Donald Trump's robust assertion of executive power.\r\nPivotal cases on voting and the rights of LGBTQ people a\u2026 [+4175 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Alexander Smith",
+      "title": "Israel-Hamas talks set to start in Egypt raise hopes of ceasefire and prisoner swap",
+      "description": "Israeli, Hamas and American delegations were due in Egypt to discuss a 20-point peace plan tabled by President Donald Trump to halt the conflict.",
+      "url": "https://www.nbcnews.com/world/gaza/hamas-israel-gaza-talks-negotiations-ceasefire-egypt-rcna235828",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-gaza-rs-f7a72e.jpg",
+      "publishedAt": "2025-10-06T10:32:51Z",
+      "content": "Israel and Hamas were poised to conduct indirect peace talks Monday, with hopes it could represent the best chance yet to end the two-year war and free the remaining hostages from Gaza.\r\nOn the anniv\u2026 [+3647 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ROB MAADDI AP pro football writer",
+      "title": "Silly mistakes, costly blunders and head-scratching decisions led to sloppy football",
+      "description": "Sunday was filled with sloppy football, silly mistakes and head-scratching decisions",
+      "url": "https://abcnews.go.com/Politics/wireStory/silly-mistakes-costly-blunders-head-scratching-decisions-led-126243572",
+      "urlToImage": "https://i.abcnewsfe.com/a/85711f7b-2a9d-4a60-825e-bf7ec1b54c73/wirestory_74d89ae07e90fda19976330d9f725819_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:29:45Z",
+      "content": "Sunday was filled with sloppy football, silly mistakes and head-scratching decisions.\r\nAnother NFL player gave away a touchdown by carelessly dropping the ball before he crossed the goal line. A roug\u2026 [+4452 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "NOKUKHANYA MUSI Associated Press, GERALD IMRAY Associated Press",
+      "title": "Plane carrying deportees from US arrives in African nation of Eswatini, lawyer says",
+      "description": "A plane carrying a group of Southeast Asian migrants deported from the United States has landed in the African nation of Eswatini",
+      "url": "https://abcnews.go.com/International/wireStory/plane-carrying-deportees-us-arrives-african-nation-eswatini-126243569",
+      "urlToImage": "https://i.abcnewsfe.com/a/2b8cb077-8bd8-40fb-9b1d-78d273dfe6b9/wirestory_74b2f942003a80a21b33084a4109a0d2_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:27:42Z",
+      "content": "MANZINI, Eswatini -- MANZINI, Eswatini (AP) A plane carrying a group of Southeast Asian migrants deported from the United States landed in the African nation of Eswatini early Monday, a lawyer for tw\u2026 [+3037 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Rescuers in India search for missing after landslides kill 24 in Darjeeling region",
+      "description": "Rescuers are scouring India's tea-growing hill district of Darjeeling in the search for several missing people",
+      "url": "https://abcnews.go.com/International/wireStory/rescuers-india-search-missing-after-landslides-kill-24-126241963",
+      "urlToImage": "https://i.abcnewsfe.com/a/4011d33a-15ea-4d60-9da9-dca3faa80aa0/wirestory_19a56f495a7ad729eda36e0c0a87ad7a_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T10:21:23Z",
+      "content": "NEW DELHI -- NEW DELHI (AP) Rescuers were scouring India's northeastern tea-growing hill district of Darjeeling on Monday for those reported missing a day after landslides triggered by heavy downpour\u2026 [+2338 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Self-described 'unapologetic supporter of Israel' John Fetterman weighs in as Trump seeks to broker peace deal",
+      "description": "Pro-Israel Democrat Sen. John Fetterman calls out pro-Palestine protesters for failing to press for Hamas to accept the peace deal President Donald Trump is working on",
+      "url": "https://www.foxnews.com/politics/self-described-unapologetic-supporter-israel-john-fetterman-weighs-trump-seeks-broker-peace-deal",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/john-fetterman.jpg",
+      "publishedAt": "2025-10-06T10:21:08Z",
+      "content": "Democratic Sen. John Fetterman of Pennsylvania, a staunch and unflinching Israel supporter, wants Hamas to accept the peace deal President Donald Trump is aiming to help broker, and is calling out pr\u2026 [+2591 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "British author Jilly Cooper, known for novels 'Rivals' and 'Riders', has died at 88",
+      "description": "British author Jilly Cooper, known for her bestselling novels like \u201cRivals\u201d and \u201cRiders,\u201d has died at age 88",
+      "url": "https://abcnews.go.com/International/wireStory/british-author-jilly-cooper-novels-rivals-riders-died-126243388",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-06T10:18:24Z",
+      "content": "LONDON -- LONDON (AP) British author Jilly Cooper, known for her many bestselling novels including Rivals and Riders, has died at age 88, her agent said Monday.\r\nA statement from her family said that\u2026 [+545 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Bbc News",
+      "title": "Author Jilly Cooper dies at 88",
+      "description": "The novelist was best known for books like Rivals, which was recently made into a Disney+ TV series.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5q0dr47mlo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f204/live/de9f1930-a299-11f0-b5fb-09dc1426da0e.jpg",
+      "publishedAt": "2025-10-06T10:15:58Z",
+      "content": "Her writing career took off with further astute and humorous non-fiction guides to men, women and the class system, alongside a series of romance novels.\r\nShe combined all of her favourite subjects t\u2026 [+983 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Haley  Ott",
+      "title": "Israel-Hamas negotiations spurred by Trump ceasefire plan to start",
+      "description": "Trump wants Israeli and Hamas negotiators to \"move fast\" in new talks aimed at securing a ceasefire in the Gaza war, spurred by his 20-point plan.",
+      "url": "https://www.cbsnews.com/news/israel-hamas-negotiations-trump-ceasefire-deal-gaza-war-egpyt-talks/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/06/e0e2a9c6-1ee8-489b-b5cf-202974bab821/thumbnail/1200x630/93e332c6ca6308f76201eb9adf519181/israel-hamas-oct-7-2239148642.jpg",
+      "publishedAt": "2025-10-06T10:07:09Z",
+      "content": "Jerusalem \u2014\u00a0Cautious hope for a ceasefire to end the war in Gaza and secure the release of the remaining hostages was building Monday as Israel and Hamas prepared to enter indirect negotiations in Eg\u2026 [+5346 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "06/10/2025 10:01 GMT",
+      "description": "The latest five minute news bulletin from BBC World Service.",
+      "url": "https://www.bbc.co.uk/programmes/w172zwwvfrf9dm1",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
+      "publishedAt": "2025-10-06T10:06:00Z",
+      "content": "The latest five minute news bulletin from BBC World Service."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": ", Steelers Wire",
+      "title": "Steelers' Aaron Rodgers gets last laugh as Jets HC makes history for wrong reasons",
+      "description": "Five weeks into the regular season, Jets HC Aaron Glenn made NFL history for the wrong reasons while Aaron Rodgers led the Steelers to a 3-1 record.",
+      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/10/06/steelers-jets-aaron-rodgers-aaron-glenn-nfl-history/86544099007/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/28/SSTL/86407655007-usatsi-27175687.jpg?auto=webp&crop=8639,4860,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2025-10-06T10:05:57Z",
+      "content": "Pittsburgh Steelers QB Aaron Rodgers and his feud with New York Jets HC Aaron Glenn may have a clear victor following Sundays games in Week 5.\r\nWhile Rodgers enjoyed a well-deserved rest during the b\u2026 [+1139 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Jilly Cooper, British author of bestselling risqu\u00e9 novels including 'Rivals', has died at 88",
+      "description": "British author Jilly Cooper, known for her bestselling novels like \u201cRivals\u201d and \u201cRiders,\u201d has died at age 88. Her agent announced the news on Monday. A statement from her family described her death as an unexpected shock. Her agent, Felicity Blunt, praised Co\u2026",
+      "url": "https://apnews.com/article/jilly-cooper-british-author-dies-64f6a2d60b4fdaee0ef7d4b7255a4a35",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5f239b3/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F75%2F9c62d7ff52977ffe20eee158f355%2Fdd4fa6f8f70949d995244e7fcdf820f9",
+      "publishedAt": "2025-10-06T10:03:17Z",
+      "content": "LONDON (AP) British author Jilly Cooper, known for her bestselling risqu\u00e9 novels including Rivals and Riders, has died at age 88, her agent and family said Monday.\r\nA statement from her family said t\u2026 [+1301 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Terry Collins, USA TODAY",
+      "title": "Immigration raids loomed, but for these revelers there was no rain on their parade",
+      "description": "Many Hispanic and Latin American Heritage Month events across America were canceled due to fears of ICE. San Francisco's lowrider parade rolled on.",
+      "url": "https://www.usatoday.com/story/news/nation/2025/10/06/lowrider-parade-trump-ice-fears/86365124007/",
+      "urlToImage": "https://media.zenfs.com/en/usa_today_news_641/977b39131124dd73463b8c7d1692ac9c",
+      "publishedAt": "2025-10-06T10:02:32Z",
+      "content": "SAN FRANCISCO Isa Gomez' biggest worry this time of year is usually whether rain will ruin her favorite festival: San Francisco's annual lowrider parade.\r\nBut as she captured photos and cheered on th\u2026 [+10829 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How and where law enforcement tracked Tyler Robinson's alleged path across UVU campus",
+      "description": "Tyler Robinson allegedly assassinated Charlie Kirk at Utah Valley University on Sept. 10, using a rooftop sniper position and .30-06 Mauser rifle.",
+      "url": "https://www.foxnews.com/us/how-where-law-enforcement-tracked-tyler-robinson-alleged-path-across-uvu-campus",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/charlie-kirk-at-uvu-before-shooting.png",
+      "publishedAt": "2025-10-06T10:00:39Z",
+      "content": "EXCLUSIVE DETAILS: OREM, Utah Tyler Robinson's suspected path shows him entering and exiting campus at different points before he \"made contact\" with a police officer standing guard after the assassi\u2026 [+5550 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Tourism safety fears rise after museum thief steals pharaoh's priceless bracelet: 4 things to know",
+      "description": "Security experts share essential safety tips for Egypt tourists following recent museum theft, warning of pickpocketing, scams and aggressive vendors in Cairo.",
+      "url": "https://www.foxnews.com/travel/tourism-safety-fears-rise-after-museum-thief-steals-pharaohs-priceless-bracelet-4-things-know",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/egypt-tourism-safety-cairo-stolen-pharaoh-bracelet-4.jpg",
+      "publishedAt": "2025-10-06T10:00:27Z",
+      "content": "The international spotlight recently turned to crime in Egypt when a pharaoh's priceless bracelet was stolen from a Cairo museum and melted down forever lost to history.\r\nThe artifact once belonged t\u2026 [+7193 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Former Biden official calls Virginia AG candidate Jay Jones' violent texts part of a 'private conversation'",
+      "description": "Former Biden aide Neera Tanden commented on Virginia state attorney general candidate Jay Jones\u2019 controversial texts calling for a GOP opponent to die.",
+      "url": "https://www.foxnews.com/media/former-biden-official-calls-virginia-ag-candidate-jay-jones-violent-texts-part-private-conversation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/jay-jones-virginia.png",
+      "publishedAt": "2025-10-06T10:00:20Z",
+      "content": "Former Biden aide Neera Tanden condemned Virginia state attorney general candidate Jay Jones violent texts but added that they were part of a \"private conversation\" on Sundays \"Meet the Press.\"\r\nTand\u2026 [+3242 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Zeeshan Aleem",
+      "title": "Democrats are defying the conventional wisdom on government shutdowns",
+      "description": "Democrats took a big gamble on the government shutdown \u2014 and polls suggest they have a surprisingly strong hand so far.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/government-shutdown-democrats-votes-republicans-trump-rcna235470",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251003-Chuck-Schumer-ch-1323-b66dac.jpg",
+      "publishedAt": "2025-10-06T10:00:00Z",
+      "content": "Political scientists and polling experts have pointed out that in previous government shutdowns (or near shutdowns) the party that tries to leverage the governments closure for a policy win typically\u2026 [+4902 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Kelly Burch)",
+      "title": "I moved from Spain to the US for work. I like the American emphasis on business and the Spanish emphasis on family.",
+      "description": "Eduardo Cosentino shares how moving to the US shaped his life and role in expanding his family's global stone business. He enjoys talking to customers.",
+      "url": "https://www.businessinsider.com/moving-us-from-spain-taught-me-about-work-culture-family-2025-10",
+      "urlToImage": "https://i.insider.com/68d595205dbc4fd10da997e0?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:57:01Z",
+      "content": "This as-told-to essay is based on a conversation with Eduardo Cosentino, executive vice president ofCosentino Group. It has been edited for length and clarity.\r\nI've worked alongside my father basica\u2026 [+3831 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Kurt Zindulka and Oliver JJ Lane, Kurt Zindulka and Oliver JJ Lane",
+      "title": "Macron's Perma-Crisis: French Government Collapses... Again... Having Lasted Just 12 Hours",
+      "description": "Just hours after forming his government, new French PM Lecornu submitted his resignation, becoming the shortest-lived leader ever.\nThe post Macron\u2019s Perma-Crisis: French Government Collapses\u2026 Again\u2026 Having Lasted Just 12 Hours appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/europe/2025/10/06/french-pm-lecornu-faces-threat-of-government-collapse-hours-after-unveiling-macron-loyalist-cabinet/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/GettyImages-2208591186-2-640x335.jpg",
+      "publishedAt": "2025-10-06T09:56:11Z",
+      "content": "Mere hours after unveiling his new government on Sunday evening, recently installed French Prime Minister S\u00e9bastien Lecornu handed in his resignation to President Macron, and at 27 days, he became th\u2026 [+5614 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "aaltchek@insider.com (Ana Altchek)",
+      "title": "I'm the founder of PopSockets. My day includes long forest walks and drinking a green tea-coffee combo I call 'graffee.'",
+      "description": "Popsockets founder David Barnett spends his days pondering philosophy, minimizing meetings, and drinking smoothies his friends find 'disgusting.'",
+      "url": "https://www.businessinsider.com/popsockets-founder-david-barnett-shares-daily-routine-2025-10",
+      "urlToImage": "https://i.insider.com/68dd738c5dbc4fd10da9f9c7?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:56:01Z",
+      "content": "This as-told-to essay is based on a conversation with David Barnett, the founder and former CEO of PopSockets phone grips, based in Colorado. This story has been edited for length and clarity.\r\nI was\u2026 [+7497 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Appeal could extend mandatory prison term for Australia mushroom murderer",
+      "description": "Prosecutors say a woman convicted of murdering family members with toxic mushrooms was given a \"manifestly inadequate\" sentence, and they want it extended.",
+      "url": "https://www.cbsnews.com/news/erin-patterson-australia-mushroom-murder-case-sentence-appeal/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/06/90db722b-9464-4a92-83be-1c5d2f254a20/thumbnail/1200x630g2/fc3fc01807db979e52211c10e084700e/australia-mushroom-murder-2233688849.jpg",
+      "publishedAt": "2025-10-06T09:52:02Z",
+      "content": "Melbourne, Australia\u00a0\u2014 Australian prosecutors on Monday filed an appeal seeking a longer guaranteed prison term for Erin Patterson, who was sentenced to life for poisoning four of her estranged husba\u2026 [+2302 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Bbc News",
+      "title": "Dame Jilly Cooper: Best-selling author of raunchy romance dies aged 88",
+      "description": "Her agent says her \"bonkbusters\" stood the \"test of time\", adding: \"Jilly wrote with acuity and insight about all things - class, sex, marriage, rivalry, grief and fertility.\"",
+      "url": "https://www.bbc.co.uk/news/live/cg50q3p94gqt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc6/live/e56c2ae0-a29a-11f0-b5fb-09dc1426da0e.jpg",
+      "publishedAt": "2025-10-06T09:50:23Z",
+      "content": "Dame Jilly Cooper's agent Felicity Blunt says it's been the privilege of her career to work with \"a woman who has defined culture, writing and conversation since she was first published over 50 years\u2026 [+674 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Snowstorm traps hundreds of hikers on Mount Everest during China's national holiday",
+      "description": "Rescue workers are helping hundreds of hikers trapped by heavy snow at a tourist camp on Mount Everest in Tibet",
+      "url": "https://abcnews.go.com/Travel/wireStory/snowstorm-traps-hundreds-hikers-mount-everest-chinas-national-126241964",
+      "urlToImage": "https://i.abcnewsfe.com/a/c1d19ca1-5a61-4a3b-b3bb-1047090b7fc4/wirestory_7adfd234f02f565c7b191de6c3610d1d_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:49:24Z",
+      "content": "BEIJING -- BEIJING (AP) Rescuers were helping hundreds of hikers trapped by heavy snow at tourist campsites on a slope of Mount Everest in Tibet, Chinese state media said.\r\nAbout 350 hikers had reach\u2026 [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JINTAMAS SAKSORNCHAI Associated Press, HUIZHONG WU Associated Press",
+      "title": "Thailand's water buffaloes upgraded their status to prized competitors",
+      "description": "The humble water buffalo has become a prized show animal in Thailand",
+      "url": "https://abcnews.go.com/International/wireStory/thailands-water-buffaloes-upgraded-status-draft-animals-prized-126243355",
+      "urlToImage": "https://i.abcnewsfe.com/a/689cfc53-aa8d-4da9-9551-5cc8db8d275b/wirestory_006ca5974ec5cba0217712e54722761a_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:49:11Z",
+      "content": "CHONBURI, Thailand -- CHONBURI, Thailand (AP) It was 5-year-old Tod's first time competing in a beauty pageant and the bright red interior of his ears turned out and popped against his black fur.\r\nTh\u2026 [+3935 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Freddie Clayton, Mithil Aggarwal",
+      "title": "Americans win Nobel prize in medicine for work on human immune system",
+      "description": "A trio of scientists \u2014 two of them American and one Japanese \u2014 have won the Nobel Prize in Medicine for their discoveries concerning peripheral immune tolerance, a mechanism by which the body helps prevent itself from attacking its own tissues instead of fore\u2026",
+      "url": "https://www.nbcnews.com/world/europe/nobel-prize-medicine-peripheral-immune-toleranc-rcna235832",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-nobel-prize-winners-rs-f78f5e.jpg",
+      "publishedAt": "2025-10-06T09:48:37Z",
+      "content": "A trio of scientists two of them American and one Japanese have won the Nobel Prize in Medicine for their discoveries concerning peripheral immune tolerance, a mechanism by which the body helps preve\u2026 [+3175 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "abitter@businessinsider.com (Alex Bitter)",
+      "title": "I took my first Waymo robotaxi ride during a trip to San Francisco. I was shocked by the cost compared to Uber and Lyft.",
+      "description": "Waymo's self-driving cars are all around San Francisco. I rode in one and compared the price to the same trip on Uber and Lyft.",
+      "url": "https://www.businessinsider.com/i-took-a-waymo-ride-compared-the-price-uber-lyft-2025-10",
+      "urlToImage": "https://i.insider.com/68dfeddacc993f9955cf7b05?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:46:01Z",
+      "content": "Robotaxis are becoming common in some big US cities, but they're still novelties in many.\r\nIn Atlanta and Austin, for instance, companies like Uber and Lyft started offering rides in driverless cars \u2026 [+6090 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Christian Edwards, Katie Hunt",
+      "title": "Nobel Prize in medicine goes to trio of scientists for work on \u2018peripheral immune tolerance\u2019 | CNN",
+      "description": "The 2025 Nobel Prize in physiology or medicine has been awarded to a trio of scientists for discovering how the immune system protects us from thousands of different microbes trying to invade our bodies.",
+      "url": "https://www.cnn.com/2025/10/06/science/nobel-prize-medicine-brunkow-ramsdell-sakaguchi-immune-system-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20251006-nobel-medicine.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T09:42:32Z",
+      "content": "The 2025 Nobel Prize in physiology or medicine has been awarded to a trio of scientists for discovering how the immune system protects us from thousands of different microbes trying to invade our bod\u2026 [+581 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "OpenAI announcements make waves in stock market\u00a0it has shunned",
+      "description": "Then a blog post detailing new features the company is using internally sent a fresh wave of jitters through software stocks like Atlassian Corp., already reeling from fears about AI disruption",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/openai-is-fast-becoming-a-whale-in-stock-market-it-has-shunned",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/murojt/article70124581.ece/alternates/LANDSCAPE_1200/2025-09-01T055818Z_199270814_RC2UMCAEZ91K_RTRMADP_3_OPENAI-INDIA.JPG",
+      "publishedAt": "2025-10-06T09:41:29Z",
+      "content": "OpenAI may not be publicly traded, but the worlds most valuable startup is increasingly making waves in the stock market.\r\nJust last week, OpenAI sent shares of e-commerce companies Shopify Inc. and \u2026 [+4416 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Nobel Prize for medicine awarded to immune system researchers",
+      "description": "The international team discovered how the immune system is kept in check to prevent it attacking the body.",
+      "url": "https://www.aljazeera.com/news/2025/10/6/nobel-prize-for-medicine-awarded-to-immune-system-researchers",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/reuters_68e38d98-1759743384.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-10-06T09:37:31Z",
+      "content": "The Nobel Prize in physiology or medicine has been awarded to Mary E Brunkow, Fred Ramsdell and Shimon Sakaguchi for their work on the functioning of the human immune system.\r\nThe award, announced by\u2026 [+1505 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Mithil Aggarwal, Larissa Gao",
+      "title": "Over 200 hikers still stranded as blizzard blankets Mount Everest",
+      "description": "Chinese rescuers were on Monday rushing to evacuate hundreds of hikers stranded on the eastern slope of the world's highest mountain, Mount Everest, after heavy snowfall blanketed campsites over the weekend",
+      "url": "https://www.nbcnews.com/world/asia/200-hikers-still-stranded-blizzard-blankets-mount-everest-rcna235827",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-everest-rs-a3fc55.jpg",
+      "publishedAt": "2025-10-06T09:35:33Z",
+      "content": "Chinese rescuers were on Monday rushing to evacuate hundreds of hikers stranded on the eastern slope of the world's highest mountain, Mount Everest, after heavy snowfall blanketed campsites over the \u2026 [+3218 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lakshmi Varanasi",
+      "title": "Lovable CEO Anton Osika says vibe-coding frees the 'super creative brains' at companies to test their ideas",
+      "description": "Anton Osika, CEO of Lovable, a vibe-coding platform, told BI that \"super creative brains\" with little technical knowledge are its most dedicated users.",
+      "url": "https://www.businessinsider.com/lovable-ceo-anton-osika-vibe-coding-creative-employees-work-2025-10",
+      "urlToImage": "https://i.insider.com/68e2ad92cc993f9955cf8fa3?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:33:01Z",
+      "content": "Lovable CEO Anton Osika said he looks for \"generalists over narrow specialists\" when hiring for his vibe coding startup.Svante Gullichsen via Lovable\r\n<ul><li>Lovable CEO Anton Osika said vibe-coding\u2026 [+4405 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tami Luhby",
+      "title": "Millions of moms and young kids could lose WIC food assistance within two weeks amid shutdown | CNN Politics",
+      "description": "Barbie Anderson is trying to conserve the milk her three young children drink in case she doesn\u2019t get her WIC benefits on October 15 as scheduled.",
+      "url": "https://www.cnn.com/2025/10/06/politics/millions-of-moms-and-young-kids-could-lose-wic-food-assistance-within-two-weeks-amid-shutdown",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23349649094660.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T09:30:52Z",
+      "content": "Barbie Anderson is trying to conserve the milk her three young children drink in case she doesnt get her WIC benefits on October 15 as scheduled.\r\nThough Anderson and her husband both work, they have\u2026 [+6263 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Joel B. Pollak, Joel B. Pollak",
+      "title": "Hundreds of Activists Train in Oakland to 'Resist' Trump Agenda",
+      "description": "Hundreds of activists trained Sunday in Oakland in tactics to \"resist\" President Donald Trump's agenda, including the use of federal Immigration and Customs Enforcement (ICE) to detain illegal aliens.\nThe post Hundreds of Activists Train in Oakland to \u2018Resist\u2026",
+      "url": "https://www.breitbart.com/politics/2025/10/06/hundreds-of-activists-train-in-oakland-to-resist-trump-agenda/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/ICE-protest-Portland-Associated-Press-640x335.jpg",
+      "publishedAt": "2025-10-06T09:29:57Z",
+      "content": "Hundreds of activists trained Sunday in Oakland in tactics to \u201cresist\u201d President Donald Trump\u2019s agenda, including opposing federal Immigration and Customs Enforcement (ICE) to detain illegal aliens.\r\u2026 [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "French appeals court revisits shocking Gis\u00e8le Pelicot rape case",
+      "description": "An appeals court in France is hearing the case of a man sentenced to nine years in prison for his role in a drugging and rape trial",
+      "url": "https://abcnews.go.com/International/wireStory/french-appeals-court-revisits-shocking-gisle-pelicot-rape-126243049",
+      "urlToImage": "https://i.abcnewsfe.com/a/dc5db784-c11c-4dbe-9de0-51b8e19d48d3/wirestory_93956ee072543b4a46301fdc1c8ca82a_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:25:30Z",
+      "content": "NIMES, France -- NIMES, France (AP) Less than a year after the landmark verdict in a drugging and rape trial that shook France last year and turned Gis\u00e8le Pelicot into a global icon, an appeals court\u2026 [+2313 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alex Morrell,Alex Nicoll,Alice Tecotzky,Bradley Saacks,Daniel Geiger,Emmalyse Brownstein,Michelle Abrego,Rebecca Torrence,Reed Alexander",
+      "title": "Business Insider's 2025 Rising Stars of Wall Street",
+      "description": "From financing the future of technology to advising on the IPO comeback, here's why these young finance leaders are the ones to watch in 2025.",
+      "url": "https://www.businessinsider.com/wall-street-rising-stars-finance-leaders-2025",
+      "urlToImage": "https://i.insider.com/68deb55dcc993f9955cf66e9?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:25:01Z",
+      "content": "They're still in the early innings of their careers, but these dealmakers and investors are already setting the agenda for the next era of finance.\r\nEach year, Business Insider spotlights up-and-comi\u2026 [+53867 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Nepal hit by deadly floods after days of heavy monsoon rains",
+      "description": "Disaster officials report at least 47 people killed as landslides and floods wreak havoc.",
+      "url": "https://www.aljazeera.com/gallery/2025/10/6/nepal-hit-by-deadly-floods-after-days-of-heavy-monsoon-rain",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP25278574514450-1759733306.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-10-06T09:24:36Z",
+      "content": "Landslides and floods triggered by heavy downpours in Nepal have killed at least 47 people, according to disaster officials.\r\nTorrential downpours have lashed Nepal since Friday, leaving rivers in sp\u2026 [+1193 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kelly McCleary, Josh Campbell, Danya Gainor, Hanna Park",
+      "title": "What we know about a federal judge temporarily blocking Trump from sending any National Guard troops to the state",
+      "description": "For the second time in two days, a Trump-appointed federal judge in Oregon delivered a second blow to the president\u2019s Trump administration\u2019s effort to send National Guard troops into Portland late Sunday night, temporarily blocking the deployment of National \u2026",
+      "url": "https://www.cnn.com/2025/10/06/us/oregon-national-guard-trump-ruling-portland-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-06t053210z-1296236702-rc256haohtzw-rtrmadp-3-usa-trump-portland.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T09:22:43Z",
+      "content": "For the second time in two days, a Trump-appointed federal judge in Oregon delivered a blow to the presidentseffort to send National Guard troops into Portland, temporarily blocking the deployment of\u2026 [+7378 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Amensisa Ifa",
+      "title": "Irreecha: Selfies and singing as Ethiopia's Oromo people celebrate thanksgiving",
+      "description": "Irreecha: Selfies and singing as Ethiopia's Oromo people celebrate thanksgivingbbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cd6399enj39o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/821c/live/1e3f7d00-a286-11f0-92db-77261a15b9d2.jpg",
+      "publishedAt": "2025-10-06T09:20:02Z",
+      "content": "Irreecha does not only attract people from across Ethiopia, attendees fly in from around the world.\r\n\"I came last year - it was so good, so beautiful, I brought my children with me this year,\" says C\u2026 [+167 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Tim Hume",
+      "title": "Australian police search for motive in rare mass shooting in Sydney",
+      "description": "Police say 60-year-old man in custody after he shot 50 bullets into busy Sydney street, injuring one person critically.",
+      "url": "https://www.aljazeera.com/news/2025/10/6/australian-police-search-for-motive-in-rare-mass-shooting-in-sydney",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-06T030223Z_1341868545_RC2Y5HAJ1RAT_RTRMADP_3_AUSTRALIA-SHOOTING-1759733196.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-10-06T09:19:19Z",
+      "content": "A 60-year-old man is in custody in Australia after he allegedly shot up to 50 bullets into a busy Sydney street, wounding one person critically, according to police.\r\nDetectives were set to interview\u2026 [+2235 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Robin Madell",
+      "title": "A software engineer compares working at Twitch vs. Google: Here's how their interview processes and work cultures stack up",
+      "description": "A software engineer who has worked at both companies shares his insights on the interview processes, onboarding structures, and work cultures of each.",
+      "url": "https://www.businessinsider.com/google-vs-twitch-interview-process-onboarding-work-cultures-comparison-2025-10",
+      "urlToImage": "https://i.insider.com/68e02bbecc993f9955cf87e1?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:15:01Z",
+      "content": "Courtesy of Goutam Nair\r\n<ul><li>Goutam Nair was a software engineer at Twitch for 3 years before joining Google in 2022.</li><li>He shared his insights on both companies' interview processes, onboar\u2026 [+5735 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Kevin Shalvey",
+      "title": "Government shutdown updates: Senate to vote Monday on stopgap-funding measures",
+      "description": "The Senate is scheduled to reconvene at 3 p.m. ET on Monday, as the federal government shutdown continues into its sixth day.",
+      "url": "https://abcnews.go.com/Politics/live-updates/government-shutdown-live-updates/?id=126242587",
+      "urlToImage": "https://i.abcnewsfe.com/a/85f8e4c1-4d4a-4d22-8895-ef1dc3310241/capitol-main_1759740397096_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:14:36Z",
+      "content": "The Senate is scheduled to reconvene at 3 p.m. ET on Monday, as the federal government shutdown continues for a sixth day.\r\nThe body is expected to hold a vote at about 5:30 p.m. ET on a bill backed \u2026 [+1087 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Fernando Cervantes Jr., USA TODAY",
+      "title": "Here's who gets Social Security payments this week on Oct. 8",
+      "description": "The first wave of Social Security payments for the month of October is set to be sent this week. Here's what recipients need to know.",
+      "url": "https://www.usatoday.com/story/money/2025/10/06/social-security-payments-october-2025/86483435007/",
+      "urlToImage": "https://media.zenfs.com/en/usa_today_money_325/71319e58901b2b3741e8054effdffed3",
+      "publishedAt": "2025-10-06T09:09:54Z",
+      "content": "The first wave of Social Security payments for the month of October is set to be sent to recipients this week, with this month marking the first under the agencys new paperless policy.\r\nStarting in O\u2026 [+2437 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Former England rugby captain Lewis Moody diagnosed with ALS",
+      "description": "Lewis Moody, a former England rugby captain and 2003 World Cup winner, has been diagnosed with ALS",
+      "url": "https://abcnews.go.com/Health/wireStory/former-england-rugby-captain-lewis-moody-diagnosed-als-126242588",
+      "urlToImage": "https://i.abcnewsfe.com/a/37feb29c-b41f-476c-9057-0f1810fe367c/wirestory_b1e298018dad30b1b0610a83a28ade77_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:09:35Z",
+      "content": "LONDON -- LONDON (AP) Lewis Moody, the former England rugby captain and 2003 World Cup winner, has been diagnosed with ALS, also known as motor neurone disease.\r\nThe 47-year-old Moody said he has a b\u2026 [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Yashraj Sharma",
+      "title": "Nobel Prize 2025: What they are, when will the awards be announced?",
+      "description": "Nobel Prize for medicine to be announced on Monday, followed by five other prizes to be declared over the next week.",
+      "url": "https://www.aljazeera.com/news/2025/10/6/nobel-prize-2025-what-they-are-when-will-the-awards-be-announced",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP21280222318025-1728554870.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-10-06T09:07:20Z",
+      "content": "The Nobel Prize 2025 officially kicks off with the first award, for physiology or medicine, to be announced on Monday, setting the stage for a week of global anticipation.\r\nThe full schedule, spannin\u2026 [+9081 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Amaris Encinas, USA TODAY",
+      "title": "Monopoly is back at McDonald's starting today. Here's how to play.",
+      "description": "Monopoly is officially back at McDonald's after a decade away. Here's how to play.",
+      "url": "https://www.usatoday.com/story/money/food/2025/10/06/mcdonalds-monopoly-2025/86505001007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/loyYKyJXuEFA2NGWA6QVBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_money_325/bc0857b38893621a81e745303cc49ba6",
+      "publishedAt": "2025-10-06T09:07:14Z",
+      "content": "Monopoly has officially returned to McDonald's after a decade-long absence.\r\nStarting on Monday, Oct. 6, McDonald's customers can \"rediscover the thrill of the peel\" based on the popular board game t\u2026 [+2703 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "06/10/2025 09:01 GMT",
+      "description": "The latest five minute news bulletin from BBC World Service.",
+      "url": "https://www.bbc.co.uk/programmes/w172zwwvfrf98vx",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
+      "publishedAt": "2025-10-06T09:06:00Z",
+      "content": "The latest five minute news bulletin from BBC World Service."
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Joel B. Pollak, Joel B. Pollak",
+      "title": "Greta Thunberg to Be Deported to Sweden After 2nd Flotilla Arrest",
+      "description": "Swedish climate activist-turned-Hamas sympathizer Greta Thunberg is set to be deported from Israel on Monday after her second arrest for joining a \"flotilla\" attempting to run the blockade against the terror group.\nThe post Greta Thunberg to Be Deported to Sw\u2026",
+      "url": "https://www.breitbart.com/middle-east/2025/10/06/greta-thunberg-to-be-deported-to-sweden-after-2nd-flotilla-arrest/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/Greta-Thunberg-Associated-Press-640x335.jpg",
+      "publishedAt": "2025-10-06T09:05:31Z",
+      "content": "Swedish climate activist-turned-Hamas sympathizer Greta Thunberg is set to be deported from Israel on Monday after her second arrest for joining a \u201cflotilla\u201d attempting to run the blockade against th\u2026 [+1987 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alyshia Hull",
+      "title": "I saved over $100,000 by working two full-time remote jobs for a year. It was chaos at times but worth it.",
+      "description": "Jessica Winder added a second full-time HR position to her plate during the pandemic. Working two six-figure jobs for a year helped her save $100,000.",
+      "url": "https://www.businessinsider.com/saved-over-100000-working-two-remote-jobs-same-time-2025-10",
+      "urlToImage": "https://i.insider.com/68d431de183847aa39d764f1?width=518&format=jpeg",
+      "publishedAt": "2025-10-06T09:05:01Z",
+      "content": "Jessica Winder.Lisa Weingardt / Little Loop Photography\r\n<ul><li>Jessica Winder worked two full-time HR jobs during the pandemic and saved $100,000.</li><li>She managed both roles for a year by lever\u2026 [+5398 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Katherine Faulders, Alexander Mallin, Peter Charalambous",
+      "title": "John Durham undercut case against James Comey in interview with prosecutors: Sources",
+      "description": "John Durham, who investigated the Russia probe, told prosecutors probing James Comey that had been unable to uncover evidence supporting charges against him, sources say.",
+      "url": "https://abcnews.go.com/US/special-counsel-john-durham-undercut-case-james-comey/story?id=126164120",
+      "urlToImage": "https://i.abcnewsfe.com/a/91b07de0-4eeb-4207-9986-3e16b11837ef/comey-3-gty-er-250924_1758745535081_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:04:35Z",
+      "content": "John Durham, the former special counsel who spent nearly four years examining the origins of the FBI investigation into President Donald Trump's 2016 presidential campaign and its alleged ties to Rus\u2026 [+7421 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Betty Lin-Fisher, USA TODAY",
+      "title": "More shoppers are looking to use Buy Now, Pay Later for holidays, survey says",
+      "description": "A new PayPal survey shows 80% of people who have used or considered Buy Now, Pay Later loans are willing to use them for the holidays.",
+      "url": "https://www.usatoday.com/story/money/2025/10/06/buy-now-pay-later-holiday-shopping/86457740007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DUuBVhnWJ7PsviN3qolmbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/8fc2f18a1934dd77f16cf3e4ab277697",
+      "publishedAt": "2025-10-06T09:03:55Z",
+      "content": "More shoppers are open to using Buy Now, Pay Later loans, especially as the holiday gift-buying season approaches and as shoppers are more worried about rising prices and financial stress, according \u2026 [+4540 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Hundreds of thousands join Amsterdam\u2019s \u2018red line\u2019 protest for Gaza",
+      "description": "Rally organisers say around 250,000 people marched in Amsterdam\u2019s \u2018red line\u2019 protest against Israel\u2019s genocide in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/hundreds-of-thousands-join-amsterdams-red-line-protest-for-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/image-1759741365.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-10-06T09:03:24Z",
+      "content": "NewsFeed\r\nProtest organisers say around 250,000 people marched in Amsterdams red line demonstration against Israels genocide in Gaza, urging Dutch government sanctions and a ceasefire. Al Jazeeras St\u2026 [+20 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Japan's first female governing-party leader is an ultra-conservative star in a male-dominated group",
+      "description": "Japan's likely next prime minister is an ultra-conservative star of a male-dominated party that critics call an obstacle to women's advancement.",
+      "url": "https://www.nbcnews.com/world/asia/japan-takaichi-first-female-party-leader-conservative-rcna235830",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-Sanae-Takaichi-rs-4e04d3.jpg",
+      "publishedAt": "2025-10-06T09:03:21Z",
+      "content": "TOKYO In a country that ranks poorly internationally for gender equality, the new president of Japan's long-governing Liberal Democrats, and likely next prime minister, is an ultra-conservative star \u2026 [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dan Whateley",
+      "title": "MrBeast 'vibe checks' new hires because working for the YouTuber isn't for everyone",
+      "description": "MrBeast has a test period for some new hires, known internally as a \"vibe check,\" that helps his company and the staffer assess culture fit.",
+      "url": "https://www.businessinsider.com/why-mrbeast-vibe-checks-new-hires-2025-10",
+      "urlToImage": "https://i.insider.com/68dd8485cc993f9955cf563b?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:03:01Z",
+      "content": "MrBeast (Jimmy Donaldson) hires some staffers for a trial period known as a \"vibe check.\"Manuel Orbegozo/Reuters\r\n<ul><li>MrBeast has a 90-day \"vibe check\" period for some hires moving to his North C\u2026 [+4120 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARI YAMAGUCHI Associated Press",
+      "title": "The new leader of Japan's ruling party, set to be first female PM, faces challenges",
+      "description": "Japan\u2019s embattled governing party now has its new leader, former Economic Security Minister Sanae Takaichi, a hardline conservative who is poised to become the country\u2019s first female prime minister",
+      "url": "https://abcnews.go.com/International/wireStory/new-leader-japans-ruling-party-poised-female-prime-126242957",
+      "urlToImage": "https://i.abcnewsfe.com/a/a0781e8d-fd5a-4f79-8fc5-7833858d56c9/wirestory_bbd08fe7141de72af16601483ed80873_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T09:02:01Z",
+      "content": "TOKYO -- TOKYO (AP) Japans embattled governing party now has its new leader, former Economic Security Minister Sanae Takaichi, a hard-line conservative who is poised to become the countrys first fema\u2026 [+4126 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Miranda Jeyaretnam",
+      "title": "House of South Carolina Judge Criticized by Trump Administration Set Ablaze",
+      "description": "Authorities are investigating a fire at the home of a South Carolina judge who had reportedly received death threats in what could be the latest incident of ...",
+      "url": "https://time.com/7323442/south-carolina-judge-diane-goodstein-house-fire-trump-political-violence/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Omlrk0pzUWfK4cz8YmEfbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/time_72/b8af809088b9757c64fc21527e4f8c35",
+      "publishedAt": "2025-10-06T09:01:24Z",
+      "content": "The beachfront home of Circuit Court Judge Diane Goodstein was set ablaze in Edisto Beach, S.C., on Oct. 4, 2025. Credit - St. Pauls Fire District/Facebook\r\nThe home of South Carolina Circuit Court j\u2026 [+11385 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lucia Moses",
+      "title": "How Coca-Cola's Fanta wants to use Hollywood to win Halloween",
+      "description": "Coca-Cola's brands are using Hollywood tie-ins to try to reach Gen Z. For Halloween, Fanta is teaming up with Universal for an experiential play.",
+      "url": "https://www.businessinsider.com/coca-cola-fanta-soda-halloween-universal-blumhouse-2025-10",
+      "urlToImage": "https://i.insider.com/68dd5be95dbc4fd10da9f6b1?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:01:01Z",
+      "content": "With events like its Haunted Fanta Factory, a partnership with Universal and Blumhouse, Coca-Cola wants to own Halloween.Coca-Cola\r\n<ul><li>Coca-Cola's Fanta is going big on Halloween with a haunted \u2026 [+4009 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "More lawmakers say they're rejecting paychecks as government shutdown drags on",
+      "description": "Lawmakers from both parties are asking to have their pay withheld as the government shutdown nears a week.",
+      "url": "https://www.foxnews.com/politics/more-lawmakers-say-theyre-rejecting-paychecks-government-shutdown-drags",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/roy-graham-hinson.jpg",
+      "publishedAt": "2025-10-06T09:00:55Z",
+      "content": "A growing number of lawmakers on both sides of the aisle have declared they're forgoing their paychecks as the government shutdown drags on.\r\nThe federal government has been shut down for nearly a we\u2026 [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Five ways the Trump administration can save the American Dream and prevent socialism",
+      "description": "Young Americans struggle to achieve homeownership as housing costs soar, but some policy solutions and student loan reform could restore the American Dream.",
+      "url": "https://www.foxnews.com/opinion/five-ways-trump-administration-can-save-american-dream-prevent-socialism",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/american-flags-homes.jpg",
+      "publishedAt": "2025-10-06T09:00:52Z",
+      "content": "Young people are demoralized and are turning to the promises of socialism. While socialism is entirely decoupled from reality, young Americans are frustrated, believing that the American Dream is out\u2026 [+5624 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "John Fritze",
+      "title": "Supreme Court to decide if states may ban attempts to \u2018convert\u2019 gay and transgender youth | CNN Politics",
+      "description": "Matt Salmon remembers getting into a circle with the other teenagers in his group therapy session and shouting obscenities at a gay boy forced to stand in the middle.",
+      "url": "https://www.cnn.com/2025/10/06/politics/supreme-court-chiles-conversion-therapy-colorado",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601192056-pride-flag-dc-200615.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T09:00:52Z",
+      "content": "Matt Salmon remembers getting into a circle with the other teenagers in his group therapy session and shouting obscenities at a gay boy forced to stand in the middle.\r\nAnd he recalls being made to si\u2026 [+8814 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Rebecca Sherdley",
+      "title": "Nottingham attacks victim Grace O'Malley-Kumar awarded George Medal",
+      "description": "The medical student \"made the ultimate sacrifice\" as she tried to defend her friend Barnaby Webber.",
+      "url": "https://www.bbc.co.uk/news/articles/cjr5xyn421yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2004/live/310028d0-a29b-11f0-92db-77261a15b9d2.jpg",
+      "publishedAt": "2025-10-06T09:00:33Z",
+      "content": "University of Nottingham students Ms O'Malley-Kumar, from east London, and Mr Webber, from Taunton, Somerset, were walking home to their student accommodation after an end-of-term night out when they\u2026 [+957 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "SEN SANDERS: AI must benefit everyone, not just a handful of billionaires",
+      "description": "Billionaires like Elon Musk and Jeff Bezos invest billions in AI and robotics that could eliminate millions of jobs while increasing corporate profits at workers' expense.",
+      "url": "https://www.foxnews.com/opinion/sen-sanders-ai-benefit-everyone-not-just-handful-billionaires",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/elon-musk.png",
+      "publishedAt": "2025-10-06T09:00:27Z",
+      "content": "Everybody agrees that artificial intelligence (AI) and robotics are going to have a transformative impact on our country and the world.\u00a0\r\nThere are strong disagreements, however, as to what those imp\u2026 [+8303 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump stops Biden's Euro-style solution to flight delays and paves way to lower fares",
+      "description": "The Biden administration under Transportation Secretary Pete Buttigieg tripled airline regulations, while the Trump administration under DOT Secretary Sean Duffy plans deregulation.",
+      "url": "https://www.foxnews.com/opinion/trump-stops-bidens-euro-style-solution-flight-delays-paves-way-lower-fares",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/austin-airport.jpg",
+      "publishedAt": "2025-10-06T09:00:24Z",
+      "content": "The Biden administration spent four years placing a record level of new regulatory impediments on the nations airlines. An analysis by the Office of Management and Budget estimates that Bidens Transp\u2026 [+4027 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "CBS staffers abuzz as Bari Weiss reportedly set to join network's top brass, 'Nobody knows' what to expect",
+      "description": "Paramount CEO David Ellison is reportedly set to acquire The Free Press and will appoint Bari Weiss as editor in chief of CBS News, which is rocking the halls of the Tiffany network.",
+      "url": "https://www.foxnews.com/media/cbs-staffers-abuzz-bari-weiss-reportedly-set-join-networks-top-brass-nobody-knows-what-expect",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/bari-weiss-november-2024.jpg",
+      "publishedAt": "2025-10-06T09:00:20Z",
+      "content": "CBS News staffers have been chattering following a flurry of reports that Bari Weiss will be taking a top position at the network.\u00a0\r\n\"Everyone is sending the articles around. Waiting to see how it wi\u2026 [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alistair Barr",
+      "title": "AI robotics has a big data problem. This startup raised $405 million to fix it in surprising ways.",
+      "description": "CEO Ali Agha is getting robots out into the world quickly to feed a data collection flywheel that just started spinning faster.",
+      "url": "https://www.businessinsider.com/ai-robotics-data-problem-fieldai-surprising-fix-ali-agha-2025-9",
+      "urlToImage": "https://i.insider.com/68deb764cc993f9955cf671c?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T09:00:02Z",
+      "content": "FieldAI CEO Ali AghaFieldAI\r\n<ul><li>FieldAI recently raised $405 million from industry giants including Gates, Bezos, Nvidia, Intel.</li><li>AI has gotten much better at digital tasks, but struggles\u2026 [+6791 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Allan Smith",
+      "title": "The New York City divide shaping its contentious mayoral race",
+      "description": "New York\u2019s mayoral contest has fully surfaced a tension bubbling in city politics for years: the divide between lifelong New Yorkers and young professionals who have recently moved in",
+      "url": "https://www.nbcnews.com/politics/elections/new-york-city-divide-shaping-contentious-mayoral-race-rcna233912",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250929-zohran-mamdani-mn-1135-710bf0.jpg",
+      "publishedAt": "2025-10-06T09:00:00Z",
+      "content": "New Yorks mayoral contest has fully surfaced a tension bubbling in city politics for years: the divide between lifelong New Yorkers and young professionals who have recently moved in.\r\nIn his 7-point\u2026 [+10511 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Sahil Kapur, Julie Tsirkin",
+      "title": "U.S. shutdown enters Day 6 as Trump dodges on Obamacare funds",
+      "description": "The U.S. government shutdown entered its sixth day on Monday with no end in sight, as Democrats and President Donald Trump and the Republican Party continue to blame each other.",
+      "url": "https://www.nbcnews.com/politics/congress/us-shutdown-enters-day-6-trump-dodges-obamacare-funds-rcna235510",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251002-shutdown-gk-cc7353.jpg",
+      "publishedAt": "2025-10-06T09:00:00Z",
+      "content": "WASHINGTON \u00a0The U.S. government shutdown entered its sixth day Monday with no end in sight after another round of blame games and sniping between leaders of the two parties on the Sunday talk shows.\r\u2026 [+4371 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Owen Auston-Babcock",
+      "title": "Trump looms over Tennessee special election in a deep-red House district",
+      "description": "As the special House election for a deep-red congressional district in Tennessee approaches, one issue has shaped the race above all else: Donald Trump",
+      "url": "https://www.nbcnews.com/politics/elections/trump-looms-tennessee-special-election-deep-red-house-district-rcna233960",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240729-donald-trump-al-1407-89a664.jpg",
+      "publishedAt": "2025-10-06T09:00:00Z",
+      "content": "As the special House election for a deep-red congressional district in Tennessee approaches, one issue has shaped the race above all else: Donald Trump.\r\nA crowded field in Tuesdays GOP primary to fi\u2026 [+5892 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Ed Thomas",
+      "title": "Footage appears to show Jihad Al-Shamie before synagogue attack",
+      "description": "Footage given to the BBC shows a man matching the description of the attacker given by witnesses.",
+      "url": "https://www.bbc.co.uk/news/articles/c62ne93n090o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7b0/live/aff5f100-a2b0-11f0-928c-71dbb8619e94.jpg",
+      "publishedAt": "2025-10-06T11:57:48Z",
+      "content": "The black Kia Picanto also matches the car driven through the gates at Heaton Park Hebrew Congregation Synagogue and at worshippers.\r\nAs with the car used in the attack, the back right hub cab can be\u2026 [+996 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "David Goldman",
+      "title": "Major challenge to Nvidia: OpenAI\u2019s massive new computing push will run on AMD chips | CNN Business",
+      "description": "In a significant challenge to Nvidia\u2019s dominance, OpenAI announced Monday it would buy 6 gigawatts of computing power from data centers that will run exclusively on AMD chips.",
+      "url": "https://www.cnn.com/2025/10/06/tech/amd-openai-nvidia",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238160824.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T11:54:01Z",
+      "content": "In a significant challenge to Nvidias dominance, OpenAI announced Monday it would buy 6 gigawatts of computing power from data centers that will run exclusively on AMD chips.\r\nNvidia (NVDA) has becom\u2026 [+3180 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Gabe Hauari, USA TODAY",
+      "title": "The NHC is tracking a tropical wave in the Atlantic Ocean. See where it's heading.",
+      "description": "The hurricane center is tracking a tropical wave in the Atlantic Ocean that could become the next named storm of the 2025 Atlantic hurricane season.",
+      "url": "https://www.usatoday.com/story/news/weather/2025/10/06/nhc-invest-95l-atlantic-ocean-tracker/86544895007/",
+      "urlToImage": "https://media.zenfs.com/en/usa_today_news_641/9a649cf6d704f32d342233d06ab66ede",
+      "publishedAt": "2025-10-06T11:51:14Z",
+      "content": "Hurricane forecasters are keeping an eye on a broad area of low pressure in the Atlantic Ocean that could soon become the next named storm of the 2025 Atlantic hurricane season.\r\nThe tropical wave, c\u2026 [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Consumers\u2019 Research (Sponsored), Consumers\u2019 Research (Sponsored)",
+      "title": "Chubb Insurance Is Woke, Radical, and Abandoning Its Customers",
+      "description": "Chubb, one of the largest insurance companies in the world, has embraced radical woke politics at the expense of the people it is supposed to serve.\nThe post Chubb Insurance Is Woke, Radical, and Abandoning Its Customers appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/politics/2025/10/06/chubb-insurance-is-woke-radical-and-abandoning-its-customers/",
+      "urlToImage": "https://media.breitbart.com/media/2025/09/spc-cr-chb-640x335.png",
+      "publishedAt": "2025-10-06T11:50:22Z",
+      "content": "The following article is sponsored by\u00a0Consumers Research\u00a0and is written its executive director, Will Hild.\r\nWhen Americans pay insurance premiums, they expect protection and stability that when a dis\u2026 [+3681 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Emmet  Lyons",
+      "title": "French prime minister resigns, prompting far-right to demand new election",
+      "description": "The resignation of another French prime minister deepens the country's political crisis and draws a call from far-right leader Marine Le Pen for national elections.",
+      "url": "https://www.cbsnews.com/news/france-prime-minister-resigns-marine-le-pen-emmanuel-macron/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/06/b5e20f88-963a-425b-9336-eae0588c6ab6/thumbnail/1200x630g3/e92bd4b1376f3cf650bbb92946fdd100/france-lecornu-resigns.jpg",
+      "publishedAt": "2025-10-06T11:48:37Z",
+      "content": "France's government collapsed Monday after the country's Prime Minister S\u00e9bastien Lecornu tendered his resignation less than a day after appointing his cabinet. The resignation of the country's secon\u2026 [+3803 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Joel B. Pollak, Joel B. Pollak",
+      "title": "Mike Huckabee Marks 2nd Anniversary of October 7: Israel, Jews 'Will Never Stand Alone'",
+      "description": "U.S. Ambassador to Israel Mike Huckabee marked the second anniversary of the October 7, 2023, Hamas terror attack on Israel by calling for the remaining Israeli hostages to be freed in a new deal.\nThe post Mike Huckabee Marks 2nd Anniversary of October 7: Isr\u2026",
+      "url": "https://www.breitbart.com/middle-east/2025/10/06/mike-huckabee-marks-2nd-anniversary-of-october-7-israel-jews-will-never-stand-alone/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/Mike-Huckabee-Associated-Press-640x335.jpg",
+      "publishedAt": "2025-10-06T11:43:41Z",
+      "content": "U.S. Ambassador to Israel Mike Huckabee marked the second anniversary of the October 7, 2023, Hamas terror attack on Israel by calling for the remaining Israeli hostages to be freed in a new deal.\r\nP\u2026 [+2852 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "OpenAI and chipmaker AMD sign chip supply partnership for AI infrastructure",
+      "description": "AMD is announcing a deal to supply its chips to OpenAI for building AI infrastructure",
+      "url": "https://abcnews.go.com/Technology/wireStory/openai-chipmaker-amd-sign-chip-supply-partnership-ai-126245509",
+      "urlToImage": "https://i.abcnewsfe.com/a/f831d064-85ee-45df-bc5a-4f5aa86793d4/wirestory_a4714748ede46621863f4860f608ac98_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T11:41:39Z",
+      "content": "Semiconductor maker AMD will supply its chips to ChatGPT maker OpenAI as part of agreement to team up on building artificial intelligence infrastructure, the companies said Monday.\r\nAccording to a jo\u2026 [+696 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Stabilisation force deployment in Gaza still a \u201ccrucial issue\u201d",
+      "description": "\u201cThe problem is going to be maintaining the [Gaza ceasefire] agreement.\u201d",
+      "url": "https://www.aljazeera.com/video/quotable/2025/10/6/stabilisation-force-deployment-in-gaza-still-a-crucial",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/UPD-Quotable-thumbnail-16x9-1-1759750693.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-10-06T11:40:37Z",
+      "content": "Quotable\r\nThe problem is going to be maintaining the [Gaza ceasefire] agreement.\r\nRead moreYezid Sayigh is a former Palestinian peace negotiator. He explains what some of the immediate problems will \u2026 [+43 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "MSNBC takes first major step toward complete independence from NBC News as corporate breakup looms",
+      "description": "NBC and MSNBC were hand in glove for years as the cable network relied on the news-gathering operation and talent of its sister broadcast operation - but a breakup is happening.",
+      "url": "https://www.foxnews.com/media/msnbc-takes-first-major-step-toward-complete-independence-from-nbc-news",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/psaki-msnbc.jpg",
+      "publishedAt": "2025-10-06T11:40:11Z",
+      "content": "MSNBC largely stopped relying on NBC News correspondents and crews for coverage on Monday, marking a significant milestone as the long-planned divorce takes shape.\u00a0\r\nFor years, NBC and MSNBC were clo\u2026 [+3418 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Moriah Balingit",
+      "title": "Government shutdown threatens WIC food aid program",
+      "description": "Experts say a food aid program that helps 6 million low-income mothers and young children will run out of federal money unless the government shutdown ends within two weeks. States would have to use their own money to keep it afloat. The $8 billion Special Su\u2026",
+      "url": "https://apnews.com/article/wic-government-shutdown-food-aid-7b1d5fc317b25b79015ea335197f37bd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c19f6a2/2147483647/strip/true/crop/4328x2435+0+225/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F52%2Fb0a18b5ca10a8f16d075feb66ca3%2Fecec52f3d72a44ecba789710169121fe",
+      "publishedAt": "2025-10-06T11:38:27Z",
+      "content": "WASHINGTON (AP) A food aid program that helps more than 6 million low-income mothers and young children will run out of federal money within two weeks unless the government shutdown ends, forcing sta\u2026 [+4732 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Nashville skydiving instructor dead after falling without parachute",
+      "description": "Tennessee skydiving instructor died during a tandem jump after becoming separated from his student, who survived after being rescued from a tree.",
+      "url": "https://www.foxnews.com/us/nashville-skydiving-instructor-dead-after-falling-without-parachute",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/nashville-skydiver-rescue-featured.jpg",
+      "publishedAt": "2025-10-06T11:36:34Z",
+      "content": "A Tennessee skydiving instructor died after a tandem jump went wrong over the weekend.\r\nLocal media outlets identified the instructor as 35-year-old Justin Fuller. His body was found \"in the clearing\u2026 [+1913 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Thibault Spirlet",
+      "title": "An economist describes the skills that can give you 'armor' against AI changing your job",
+      "description": "Economist Linda Nazareth says soft skills like empathy and curiosity will be key to thriving as AI transforms how we work.",
+      "url": "https://www.businessinsider.com/economist-skills-workers-armor-ai-disruption-empathy-curiosity-2025-10",
+      "urlToImage": "https://i.insider.com/68e38a335dbc4fd10daa39bf?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T11:36:24Z",
+      "content": "Economist Linda Nazareth shared seven skills that could keep your job safe from AI.BERTRAND GUAY/AFP via Getty Images\r\n<ul><li>An economist said skills like empathy and curiosity can help you build \"\u2026 [+2484 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Ildefonso Ortiz and Brandon Darby, Ildefonso Ortiz and Brandon Darby",
+      "title": "Cartel Kidnaps Innocent Women Outside Airport in Mexican Border City",
+      "description": "A group of gunmen from the Gulf Cartel tried to kidnap three innocent women who had just flown into the Mexican border city of Reynosa on a work assignment. The Gulf Cartel has been increasing extortion and kidnapping operations in the region following the bo\u2026",
+      "url": "https://www.breitbart.com/border/2025/10/06/cartel-kidnaps-innocent-women-outside-airport-in-mexican-border-city/",
+      "urlToImage": "https://media.breitbart.com/media/2024/10/Reynosa-Gulf-Cartel-Arrest-640x335.jpg",
+      "publishedAt": "2025-10-06T11:32:48Z",
+      "content": "A group of gunmen from the Gulf Cartel tried to kidnap three innocent women who had just flown into the Mexican border city of Reynosa on a work assignment. The Gulf Cartel has been increasing extort\u2026 [+2482 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Kurt Zindulka, Kurt Zindulka",
+      "title": "'Countdown Has Begun': Macron Faces Calls to Resign After Collapse of Third Government in a Year",
+      "description": "French President Emmanuel Macron's grip on the \u00c9lys\u00e9e Palace is becoming increasingly tenuous as he faces calls to resign or dissolve the National Assembly in the wake of the collapse of the third government in Paris in under a year on Monday morning.\nThe pos\u2026",
+      "url": "https://www.breitbart.com/europe/2025/10/06/countdown-has-begun-macron-faces-calls-to-resign-after-collapse-of-third-government-in-a-year/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/GettyImages-2238361020-2-640x335.jpg",
+      "publishedAt": "2025-10-06T11:32:02Z",
+      "content": "French President Emmanuel Macron\u2019s grip on the \u00c9lys\u00e9e Palace is becoming increasingly tenuous as he faces calls to resign or dissolve the National Assembly in the wake of the collapse of the third go\u2026 [+3883 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Video: Dozens killed in flash flooding and landslides in Nepal and India",
+      "description": "Widespread flooding in Nepal and India has caused the deaths of at least 47 people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/video-dozens-killed-in-flash-flooding-and-landslides-in-nepal-and-india",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/image-1759750256.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-10-06T11:31:43Z",
+      "content": "NewsFeed\r\nWidespread flooding in Nepal and India has caused the deaths of at least 47 people. Unrelenting rains have triggered landslides and severely damaged homes, roads and bridges."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ky Carlin",
+      "title": "3 important X-Factors for the Sixers in upcoming 2025-26 season",
+      "description": "Here are three important X-Factors for the Philadelphia 76ers in the upcoming 2025-26 season.",
+      "url": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2025/10/06/3-important-x-factors-for-the-sixers-in-upcoming-2025-26-season/86536485007/",
+      "urlToImage": "https://sixerswire.usatoday.com/gcdn/authoring/authoring-images/2025/10/05/SSIX/86536669007-paul-george.jpg?crop=5928,3335,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2025-10-06T11:30:35Z",
+      "content": "The Philadelphia 76ers will look to throw their hat in the ring in what should be a wide-open Eastern Conference in the 2025-26 season. With the talent the Sixers have on their roster--although there\u2026 [+2801 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Dallas train shooting leaves 1 dead, second homicide on DART transit system in a week",
+      "description": "One person was killed on Sunday in a shooting on the Dallas Area Rapid Transit train, marking the second deadly attack on the city train in a week.",
+      "url": "https://www.foxnews.com/us/dallas-train-shooting-leaves-1-dead-second-homicide-dart-transit-system-week",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/dart-train-shooting-police-presence.jpg",
+      "publishedAt": "2025-10-06T11:27:21Z",
+      "content": "One person is dead after a shooting on a Dallas Area Rapid Transit train Sunday night, marking the second deadly incident on the Texas train system in the past week.\r\nThe shooting happened near the P\u2026 [+2320 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Kayla Hayempour",
+      "title": "Senate returns to Capitol Hill and Trump's troop deployment is blocked \u2014 twice: Morning Rundown",
+      "description": "Senate returns as the shutdown enters Day 6. Judge blocks the deployment of federalized National Guard troops to Portland. And Patriots beat Bills.",
+      "url": "https://www.nbcnews.com/news/us-news/senate-returns-capitol-hill-trump-troops-blocked-morning-rundown-rcna235675",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-government-shutdown-mn-1110-b156aa.jpg",
+      "publishedAt": "2025-10-06T11:26:53Z",
+      "content": "The Senate returns to Capitol Hill, but odds of ending a shutdown remain slim amid a political blame game. The Trump administration is handed another blow in its effort to send National Guard troops \u2026 [+7530 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Rob Reiner warns country has one year before entering 'full-on autocracy' under Trump",
+      "description": "Filmmaker Rob Reiner claimed on MSNBC\u2019s \u201cVelshi\" Sunday that President Donald Trump will attempt to steal the 2026 midterm elections through the military.",
+      "url": "https://www.foxnews.com/media/rob-reiner-warns-country-has-one-year-before-entering-full-on-autocracy-under-trump",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/rob-reiner-event.jpg",
+      "publishedAt": "2025-10-06T11:26:21Z",
+      "content": "Actor and director Rob Reiner claimed the United States has only one year before tuning into a \"full-on autocracy\" suggesting on MSNBCs \"Velshi\" Sunday that President Donald Trump will attempt to ste\u2026 [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Joel B. Pollak, Joel B. Pollak",
+      "title": "Mamdani Marks 'Genocide' of Palestinians Ahead of October 7 Anniversary of Terror Attack on Israel",
+      "description": "Zohran Mamdani, the Democratic Party nominee for mayor of New York City, met with Palestinians to mark the \"genocide\" in Gaza ahead of the second anniversary of the Palestinian terror attack on Israel on October 7.\nThe post Mamdani Marks \u2018Genocide\u2019 of Palesti\u2026",
+      "url": "https://www.breitbart.com/politics/2025/10/06/mamdani-marks-genocide-of-palestinians-ahead-of-october-7-anniversary-of-terror-attack-on-israel/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/Screen-Shot-2025-10-06-at-7.23.30-AM-640x335.png",
+      "publishedAt": "2025-10-06T11:26:09Z",
+      "content": "Zohran Mamdani, the Democratic Party nominee for mayor of New York City, met with Palestinians to mark the \u201cgenocide\u201d in Gaza ahead of the second anniversary of the Palestinian terror attack on Israe\u2026 [+1692 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "James Gallagher",
+      "title": "Nobel Prize for immune system stops destructive rampage",
+      "description": "The prize-winning discovery explains how the immune system attacks hostile infections, but not the body's own cells.",
+      "url": "https://www.bbc.co.uk/news/articles/c2knwvpd7vno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg",
+      "publishedAt": "2025-10-06T11:21:16Z",
+      "content": "\"Their discoveries have been decisive for our understanding of how the immune system functions and why we do not all develop serious autoimmune diseases,\" says Olle K\u00e4mpe, chair of the Nobel Committe\u2026 [+1626 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Cindy Von Quednow",
+      "title": "South Carolina authorities are investigating a fire that engulfed the home of state circuit court judge | CNN",
+      "description": "A blaze that engulfed the South Carolina home of a state circuit court judge and her husband, a former state senator, is under investigation, CNN affiliates WCSC and WIS reported.",
+      "url": "https://www.cnn.com/2025/10/06/us/judge-diane-goodstein-home-fire-investigation",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/st-paul-s-fire-district-cropped.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-06T11:20:39Z",
+      "content": "A blaze that engulfed the South Carolina home of a state circuit court judge and her husband, a former state senator, is under investigation, authorities said.\r\nFirefighters from multiple fire depart\u2026 [+1839 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JOSH BOAK Associated Press",
+      "title": "Republicans and Democrats at an impasse as government shutdown enters sixth day",
+      "description": "Republican and Democratic lawmakers have provided few public signs of meaningful negotiations to break an impasse on reopening the federal government as the shutdown enters a sixth day",
+      "url": "https://abcnews.go.com/Business/wireStory/republicans-democrats-impasse-government-shutdown-enters-sixth-day-126245043",
+      "urlToImage": "https://i.abcnewsfe.com/a/8d47a021-f7f8-4e46-9bd4-11b7f07902b0/wirestory_7d7e6f9b4e52d05b692cc40ec6c96cf3_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T11:18:43Z",
+      "content": "WASHINGTON -- WASHINGTON (AP) Republican and Democratic lawmakers have provided few public signs of meaningful negotiations to break an impasse on reopening the federal government as the shutdown ent\u2026 [+5162 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Sunil Mittal\u2019s\u00a0Bharti Telecom mulls record \u20b915,000 crore bond deal",
+      "description": "Billionaire Sunil Mittal\u2019s Bharti Telecom Ltd is considering to offer about \u20b915,000 crore ($1.7 billion) of bonds as early as next week, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/billionaire-s-bharti-telecom-mulls-record-1-7-billion-bond-deal",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/llv76q/article70131058.ece/alternates/LANDSCAPE_1200/16_INDIA_MOBILE_CONGRESS_27_10_DELHI.JPG",
+      "publishedAt": "2025-10-06T11:18:39Z",
+      "content": "Billionaire Sunil Mittals Bharti Telecom Ltd is considering to offer about 15,000 crore ($1.7 billion) of bonds as early as next week, according to people familiar with the matter.\u00a0\r\nPreliminary disc\u2026 [+1200 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MICHELLE CHAPMAN AP business writer",
+      "title": "Fifth Third Bancorp to buy Comerica for $10.9 billion in tie-up of big regional banks",
+      "description": "Fifth Third Bancorp is buying Comerica in an all=stock deal valued at $10.9 billion",
+      "url": "https://abcnews.go.com/US/wireStory/bancorp-buy-comerica-109-billion-tie-big-regional-126244469",
+      "urlToImage": "https://i.abcnewsfe.com/a/cbe891a1-c288-4426-b0f2-35488b3bcb09/wirestory_c941c29979fd8251b12ab373261764a4_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T11:18:22Z",
+      "content": "Fifth Third Bancorp is buying Comerica for $10.9 billion in an all-stock deal, tying up two big regional banks. \r\nThe buyout will create the 9th largest U.S. bank with approximately $288 billion in a\u2026 [+1260 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MIKE CORDER Associated Press",
+      "title": "ICC judges deliver verdicts in the trial of an alleged militia leader from Sudan",
+      "description": "International Criminal Court judges are delivering verdicts Monday in the trial of an alleged Arab militia leader in Sudan",
+      "url": "https://abcnews.go.com/International/wireStory/icc-judges-deliver-verdicts-trial-alleged-militia-leader-126245007",
+      "urlToImage": "https://i.abcnewsfe.com/a/e1fc4c56-d913-438e-b781-9036dee209c6/wirestory_538055077897127929259e7515b7a40c_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T11:18:21Z",
+      "content": "THE HAGUE, Netherlands -- THE HAGUE, Netherlands (AP) International Criminal Court judges are delivering their verdicts Monday in the trial of an alleged Arab militia leader in Sudan who prosecutors \u2026 [+2732 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "THOMAS BEAUMONT Associated Press, REBECCA SANTANA Associated Press",
+      "title": "ICE ad blitz aims to lure local law enforcement officers to join Trump mass deportation efforts",
+      "description": "An Associated Press tally shows U.S. Immigration and Customs Enforcement is spending millions of dollars on TV recruitment ads targeting officers frustrated by local restrictions on immigration enforcement",
+      "url": "https://abcnews.go.com/US/wireStory/ice-ad-blitz-aims-lure-local-law-enforcement-126244560",
+      "urlToImage": "https://i.abcnewsfe.com/a/e828bd9f-dc4b-44a2-84db-25338f95d6f6/wirestory_473a7ac193cff625476f1ee21f82facd_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T11:17:58Z",
+      "content": "SACRAMENTO, Calif. -- SACRAMENTO, Calif. (AP) U.S. Immigration and Customs Enforcement is spending millions of dollars on television advertising in select metro areas around the country, an Associate\u2026 [+5457 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A Chinese migrant dies when boat capsizes on the Danube between Serbia and Croatia",
+      "description": "A boat carrying at least 10 Chinese nationals capsized on the Danube River between Serbia and Croatia, resulting in one death, according to Serbian police on Monday",
+      "url": "https://abcnews.go.com/International/wireStory/chinese-migrant-dies-boat-capsizes-danube-serbia-croatia-126243061",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-06T11:17:39Z",
+      "content": "BELGRADE, Serbia -- BELGRADE, Serbia (AP) One person died when a boat carrying at least 10 Chinese nationals capsized on the Danube River between Serbia and Croatia as they were trying to cross the b\u2026 [+890 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ERION XHABAFTI Associated Press, LLAZAR SEMINI Associated Press",
+      "title": "Western Balkan leaders meet in Albania to discuss accelerating EU integration",
+      "description": "The presidents of the Western Balkan nations have gathered in Albania to discuss accelerating economic integration with the European Union",
+      "url": "https://abcnews.go.com/International/wireStory/western-balkan-leaders-meet-albania-discuss-accelerating-eu-126242682",
+      "urlToImage": "https://i.abcnewsfe.com/a/10bb83d8-bd3f-448d-b169-a98d1a38215a/wirestory_deb7b8777b743aa39bdffbefb262a956_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-06T11:17:37Z",
+      "content": "GOLEM, Albania -- GOLEM, Albania (AP) The presidents of the Western Balkan nations gathered Monday in Albania to discuss ways they can accelerate their economic integration with the European Union am\u2026 [+1695 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Josh Petry",
+      "title": "New details emerge on Mark Sanchez altercation and arrest",
+      "description": "NFL star and analyst, 38, had been arrested at a local hospital on three misdemeanor charges: battery with injury, unlawful entry of a motor vehicle",
+      "url": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/06/new-details-have-emerged-on-former-nfl-qb-mark-sanchez-altercation-and-arrest/86541939007/",
+      "urlToImage": "https://touchdownwire.usatoday.com/gcdn/authoring/authoring-images/2025/10/06/STDN/86541956007-usatsi-19548665.jpg?crop=8000,4501,x0,y416&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2025-10-06T11:17:03Z",
+      "content": "Reports emerged about former NFL quarterback Mark Sanchez being stabbed after midnight on Friday night/Saturday morning while in Indianapolis to call the Colts vs. Raiders game as part of the FOX bro\u2026 [+1690 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Blackstone, Abu Dhabi\u2019s Lunate team up on $5 billion logistics platform",
+      "description": "Blackstone partners with Abu Dhabi's Lunate for $5 billion investment platform targeting logistics assets in the GCC region.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/blackstone-abu-dhabi-s-lunate-team-up-on-5-billion-logistics-platform",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ukjmb3/article70131056.ece/alternates/LANDSCAPE_1200/2025-09-09T052750Z_1048739928_RC2BWFATX4PR_RTRMADP_3_PROPERTY-FINDER-M-A.JPG",
+      "publishedAt": "2025-10-06T11:16:07Z",
+      "content": "Blackstone Inc. is partnering with Abu Dhabis Lunate on a new platform that will target investments worth $5 billion across the wider region, as the US private equity giant looks to build on its port\u2026 [+2212 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "rscammell@businessinsider.com (Robert Scammell)",
+      "title": "OpenAI just gave AMD a big boost in the AI chip wars",
+      "description": "The move provides a significant boost to AMD against Nvidia, which is the dominant player in the AI chip market.",
+      "url": "https://www.businessinsider.com/openai-amd-chips-deal-nvidia-ai-2025-10",
+      "urlToImage": "https://i.insider.com/68e3a4e65dbc4fd10daa3a88?width=1200&format=jpeg",
+      "publishedAt": "2025-10-06T11:16:04Z",
+      "content": "AMD has agreed to a multi-billion-dollar partnership to supply its artificial intelligence chips to OpenAI.\r\nThe multi-year deal, announced Monday, will see OpenAI deploy 6 gigawatts of AMD GPUs, wit\u2026 [+810 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Fifth Third Bancorp will acquire Comerica in a $10.9 billion deal that joins two big regional banks",
+      "description": "Fifth Third Bancorp will acquire Comerica in a $10.9 billion deal that joins two big regional banks",
+      "url": "https://abcnews.go.com/Business/wireStory/bancorp-acquire-comerica-109-billion-deal-joins-big-126244470",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-06T11:09:39Z",
+      "content": "Fifth Third Bancorp will acquire Comerica in a $10.9 billion deal that joins two big regional banks\r\nCINCINNATI -- CINCINNATI (AP) Fifth Third Bancorp will acquire Comerica in a $10.9 billion deal th\u2026 [+31 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "06/10/2025 11:01 GMT",
+      "description": "The latest five minute news bulletin from BBC World Service.",
+      "url": "https://www.bbc.co.uk/programmes/w172zwwvfrf9jc5",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
+      "publishedAt": "2025-10-06T11:06:00Z",
+      "content": "The latest five minute news bulletin from BBC World Service."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How a single MacBook compromise spread across a user\u2019s Apple devices",
+      "description": "Expert cybersecurity tips help Mac owners remove malware infections and strengthen defenses with antivirus software, password managers, and system updates.",
+      "url": "https://www.foxnews.com/tech/how-single-macbook-compromise-spread-across-users-apple-devices",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/4-how-a-compromised-work-macbook-took-control-of-all-my-devices.jpg",
+      "publishedAt": "2025-10-06T11:03:36Z",
+      "content": "We trust Macs to be reliable, secure, and mostly resistant to viruses. Apple's software reputation has long been built around the idea that macOS is harder to compromise than Windows. And while there\u2026 [+12675 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Aggies Wire",
+      "title": "Projecting the rest of Texas A&M's 2025 season using ESPN FPI after Week 6",
+      "description": "Breaking down the latest record projection for Texas A&M using the Football Power Index produced by ESPN ahead of Week 7.",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2025/10/06/texas-aggies-football-record-projection-week-6-espn-fpi/86541972007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i__5JxISUMtEHxju4u5xYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/aggies_wire_usa_today_articles_632/d9d4aa4cee552ba4bb1350f660c31544",
+      "publishedAt": "2025-10-06T11:02:04Z",
+      "content": "No. 5 Texas A&amp;M (5-0, 2-0 SEC) looks like one of the most complete teams in the country after defeating Mississippi State 31-9 behind another elite defensive performance. The Aggies still have pl\u2026 [+2314 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Avalanche in Slovenia kills 3 Croatian mountain climbers",
+      "description": "Slovenia's mountain rescue service says three mountaineers from Croatia have died after being swept away by an avalanche",
+      "url": "https://abcnews.go.com/International/wireStory/avalanche-slovenia-kills-3-croatian-mountain-climbers-126244362",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-10-06T11:01:38Z",
+      "content": "LJUBLJANA, Slovenia -- LJUBLJANA, Slovenia (AP) Three mountaineers from Croatia were killed when they were swept away by an avalanche in neighboring Slovenia over the weekend, rescue officials said M\u2026 [+1095 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Denise Richards\u2019 ex calls Charlie Sheen, Brandi Glanville to testify in divorce drama: what do they know",
+      "description": "Denise Richards' estranged husband Aaron Phypers names Charlie Sheen and Brandi Glanville as witnesses in his divorce from the actress, seeking testimony about her alleged drug use and dishonesty.",
+      "url": "https://www.foxnews.com/entertainment/denise-richards-ex-calls-charlie-sheen-brandi-glanville-testify-divorce-drama-what-do-know",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/denise-aaron-charlie-brandi.jpg",
+      "publishedAt": "2025-10-06T11:00:48Z",
+      "content": "Denise Richards' estranged husband Aaron Phypers is attempting to drag Charlie Sheen and Brandi Glanville into his acrimonious divorce battle with the \"Wild Things\" star.\r\nPhypers' lawyers named Shee\u2026 [+8524 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Becket Adams, opinion contributor",
+      "title": "Opinion - Surprise \u2014 NPR never really needed all that taxpayer money in the first place!",
+      "description": "In July, National Public Radio\u2019s CEO cried and hollered, claiming her organization could not possibly survive without government funding. This week, however,...",
+      "url": "https://thehill.com/opinion/campaign/5537336-surprise-npr-never-really-needed-taxpayer-funding-in-the-first-place/",
+      "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/aab7368b5db1961322e975e34c34f3cf",
+      "publishedAt": "2025-10-06T11:00:00Z",
+      "content": "In July, National Public Radios CEO cried and hollered, claiming her organization could not possibly survive without government funding.\r\nThis week, however, the same news organization claimed that o\u2026 [+4411 chars]"
     }
   ]
 }

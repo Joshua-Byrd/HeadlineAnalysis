@@ -1,20 +1,28 @@
 import json
+import csv
 
 # load list of articles
 with open ("./data/raw/headline_objects.json", "r") as file:
     articles = json.load(file)["articles"]
 
-for article in articles:
-    print(article["source"]["id"])
-
-
+# write flattened article information to a csv
 with open("./data/flattened_articles.csv", "w") as file:
-    # write header row
-    file.writelines("id,author,title,description,url,urlToImage,publishedAt,content\n")
-    
-    # write individual rows 
-    for article in articles:
-        row = str(article["source"]["id"]) + "," + str(article["author"]) + "," + str(article["title"]) + "," + str(article["description"]) + "," + str(article["url"]) + "," + str(article["urlToImage"]) + "," + str(article["publishedAt"]) + "," + str(article["content"]) + "\n"
-        file.writelines(row)
+    fieldnames = ["id", "author", "title", "description", "url", "urlToImage", "publishedAt", "content"]
+    writer = csv.DictWriter(file, fieldnames=fieldnames)
 
+    writer.writeheader()
+
+    # flatten the source key in the article dict first, then write it as a row to the csv
+    for article in articles:
+        row_dict = {
+            "id": article["source"]["id"],
+            "author": article["author"],
+            "title": article["title"],
+            "description": article["description"],
+            "url": article["url"],
+            "urlToImage": article["urlToImage"],
+            "publishedAt": article["publishedAt"],
+            "content": article["content"]
+        }
+        writer.writerow(row_dict)
 
