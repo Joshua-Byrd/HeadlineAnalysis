@@ -8,3 +8,4 @@
 5. Updated fetch_hl_objects_from_api.py to merge new articles with old instead of overwriting.
 6. Started acquiring articles on 10/4/2025. Ended on
 7. Edited crontab to schedule fetch_hl_objects_from_api.py to run every hour (will run for a couple of days to get a decent amount of article objects).
+8. Flattened articles into a csv with flatten_articles.csv
