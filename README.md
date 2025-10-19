@@ -4,13 +4,13 @@ This project explores the relationship between media source bias, reliability, a
 
 ## Motivation
 
-With most news shared online being consumed based solely on its headline (often without reading the full article) it’s important to understand how tone, sentiment, and bias interact. This analysis investigates whether headlines from left- or right-skewing sources differ meaningfully in sentiment, and whether sentiment correlates with source bias or reliability ratings.
+With most news shared online being consumed based solely on its headline (often without even clicking through to read the linked information), it’s important to understand how tone, sentiment, and bias interact. This analysis investigates whether headlines from left- or right-skewing sources differ meaningfully in sentiment, and whether sentiment correlates with source bias or reliability ratings.
 
 ## Key Findings
 
 - **Slight tone difference**: Left-skewing sources showed slightly more positive average sentiment than right-skewing sources (mean difference = 0.08)
 - **Statistically significant, but small effect**: While this difference was significant (*p* < 0.001), it was **not practically meaningful** (*Cohen’s d* = 0.19)
-- **Greater variability on the right**: Right-skewing headlines showed a broader spread of sentiment scores, with more extremely negative values
+- **Greater variability on the right**: Right-skewing headlines showed a broader spread of sentiment scores, with a higher frequency of negative values
 - **No strong correlations**:
   - Sentiment vs. bias direction: *r* = –0.07
   - Sentiment vs. bias strength: *r* = –0.10
@@ -18,26 +18,32 @@ With most news shared online being consumed based solely on its headline (often 
 
 ## How to Run This Project
 
-To explore or reproduce the analysis:
+The full analysis is contained in `notebooks/headline_analysis.ipynb`. 
+
+To explore or reproduce:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/headline-sentiment-analysis.git
+   git clone git@github.com:Joshua-Byrd/HeadlineAnalysis.git
    cd headline_analysis
-
+   ``` 
 2. **(Optional but recommended) Create a virtual environment:**
     ```bash
     python3 -m venv venv
-    source venv/bin/activate 
+    source venv/bin/activate
+    ``` 
 
 3. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
-
-4. **Launch Jupyter Notebook or VS Code:**
+    ```
+4. **Launch Jupyter Notebook:**
     ```bash
     cd notebooks
     jupyter notebook headline_analysis.ipynb
+    ```
+*Note: There are no API calls required to run this project, as the data has been prefetched and is included in `data/flattened_articles.csv`. However, the analysis notebook details which scripts to 
+run and in what order, should you wish to reproduce everything from scratch.*
 
 ## Project Structure
 ```
@@ -49,7 +55,7 @@ To explore or reproduce the analysis:
 
 /logs      - contains the logs of both the API calls and executed cron jobs
 
-/notebooks - contains the Jupyter Notebook used for analysis, **headline_analysis.ipynb**
+/notebooks - contains the Jupyter Notebook used for analysis, headline_analysis.ipynb
 ```
 
 ## Tools & Libraries
@@ -89,3 +95,4 @@ To explore or reproduce the analysis:
 M.S. in Software Development | Aspiring Data Analyst / Data Engineer  
 [Portfolio Site](https://joshua-byrd.github.io/projects.html) | [LinkedIn](https://www.linkedin.com/in/joshua-byrd-356b93184/) | [GitHub](https://github.com/Joshua-Byrd)
 
+This project was developed for portfolio purposes to demonstrate exploratory data analysis, sentiment scoring, and statistical evaluation in Python.
