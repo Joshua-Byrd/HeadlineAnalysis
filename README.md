@@ -1,10 +1,10 @@
 # Headline Sentiment and Media Bias Analysis
 
-This project explores the relationship between **media source bias, reliability, and the sentiment of news headlines**. Using a dataset of 2,000+ headlines pulled from popular media outlets, the goal is to determine whether headline tone correlates with political leaning or perceived reliability — and whether there are meaningful differences between left- and right-skewing sources.
+This project explores the relationship between media source bias, reliability, and the sentiment of news headlines. Using a dataset of 2,000+ headlines pulled from popular media outlets, the goal is to determine whether headline tone correlates with political leaning or perceived reliability — and whether there are meaningful differences between left- and right-skewing sources.
 
 ## Motivation
 
-With most news shared online being consumed based solely on its headline (often without reading the full article) it’s important to understand how **tone, sentiment, and bias interact**. This analysis investigates whether headlines from left- or right-skewing sources differ meaningfully in sentiment, and whether sentiment correlates with **source bias** or **reliability** ratings.
+With most news shared online being consumed based solely on its headline (often without reading the full article) it’s important to understand how tone, sentiment, and bias interact. This analysis investigates whether headlines from left- or right-skewing sources differ meaningfully in sentiment, and whether sentiment correlates with source bias or reliability ratings.
 
 ## Key Findings
 
